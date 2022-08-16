@@ -1,0 +1,1033 @@
+Accession_Number,occlusion_or_not,Old_mRS,30_Days_mRs,Acute_or_chronic,Patient_Sex,Patient_Age,X_ShamAccessionNumber,vessels,Location,Passes_time
+52818203,occlusion,1,0,chronic,Male,77,7a603e8495ee6583a204a2c0db629608,Chronic left M1 occlusion,M1,NA
+53195738,occlusion,1,1,acute,Male,52,2f01364ffa79d159ef9a106c89437197,right internal carotid artery,ICA,NA
+52990262,occlusion,4,3,chronic,Male,69,65397fc8c232d46a463cda07f4151607,"  M1 segment left MCA.
+",M1,NA
+53277488,occlusion,2,2,chronic,Female,54,391ae8eb152bbe38907c6fd18200e9a1, basilar artery and right vertebral artery,10,NA
+51080603,occlusion,5,3,chronic,Male,78,d8f857bbd5b0288bc97e9786ddf461a9, M1 segment of the right MCA,,NA
+51725881,occlusion,5,5,chronic,Female,80,88f22b021e63399224cc47876e3d00b4, basilar artery,Basilar ,NA
+51842813,occlusion,1,1,chronic,Female,83,a2ae5603c6e9d1b23996631da54b68ec,"Dominant right vertebral artery with chronic distal left vertebral artery occlusion.
+",10,NA
+51998425,occlusion,2,6,acute,Female,71,c58c8ede2bda2a56b944086a105cc0cf,distal right vertebral and basilar arteries,,NA
+52446383,occlusion,1,1,chronic,Female,66,dc510c1b362b251e91f776b8e6393791,"right cavernous internal carotid artery.    
+",10,NA
+52589070,occlusion,2,6,acute,Female,68,ce5fd5671471564489d67f3b689c8eb7, left M2 occlusion,M2,NA
+52754438,occlusion,2,0,acute,Male,71,934488e68e7228d2454e7aa212fee5bd,left PCA,PCA,NA
+52940184,occlusion,4,3,acute,Male,68,4f5e48ee2bda1760048e9e24faca6be9,Left internal carotid,,1
+52978353,occlusion,4,4,chronic,Male,54,67167a880b9125ce7c29be4c5090cf78,nonocclusive basilar thrombus,,1
+53066039,occlusion,1,2,chronic,Male,70,04415364e013b92904ef32160271e7c4, Right proximal M2 occlusion,M2,NA
+50852862,occlusion,1,0,chronic,Male,93,356801aed304de7fb46b7839ba9c0397,Right internal carotid artery,ICA,NA
+50913938,occlusion,1,2,chronic,Male,77,70c12759d44bf2f1ff35f71aa1eae9fb,Right vertebral artery of C2  level,VA,NA
+50976144,occlusion,2,2,chronic,Female,88,96ad496e2640a0495b59318be138787c,basilar artery,Basilar ,NA
+51088907,occlusion,4,6,chronic,Male,80,4dc3ebb2c05ceafbf5b83bc0f7f8ab20,petrous and cavernous segments of the left internal carotid artery,ICA,NA
+51514281,occlusion,4,3,chronic,Female,26,3127884b0a75e96b4fca39ca0c79f2ba,Left proximal to mid M2 MCA branch,,1
+51656935,occlusion,3,3,acute,Female,60,cd17cce4c79c646c16375192ff2d1f84,Right M1 occlusion,M1,NA
+51899605,occlusion,4,4,acute,Female,82,cf5ccc2ccee2a18f2f2ad1d368b11934,Distal right M1 segment MCA occlusion,,1
+52037892,occlusion,2,3,acute,Male,79,8bf63e497e4367cef671d8501a693a2e,left M1,M1,NA
+52041328,occlusion,2,1,chronic,Female,90,f6fcd1d4e31eef2bb795e965a2e5a204,right ICA,ICA,NA
+52107931,occlusion,4,3,chronic,Female,79,54a4c1b56a068fbb7c10dd6d2b824d24,right internal carotid artery,,1
+52272223,occlusion,3,2,chronic,Male,72,e04a9c591353b3f6c58f58cad2032273,"Chronic right MCA infarct.
+",MCA,NA
+52303925,occlusion,5,6,acute,Female,94,3d7eeb544284b7346786f1259564f35b,M1 segment of the left MCA,M1,NA
+52324965,occlusion,1,1,acute,Female,84,212b65beb57c4aa68f1ed78032bb3856,M2 segment,M2,NA
+52348368,occlusion,1,0,chronic,Female,29,636c420bf0fb412afc52e39e0a36d153, proximal right and left  M1,1,NA
+52444003,occlusion,1,1,chronic,Female,87,e1a50298effc431ba24e44ad256d0bab,left anterior M2 branch,M2,NA
+52459917,occlusion,5,6,acute,Male,83,f22c434e8b51a307728f810451e23d76,right MCA,MCA,NA
+52659034,occlusion,4,3,acute,Female,86,c941ba3b043aa39f172b5aad248de41a,right distal M2,,1
+52772935,occlusion,4,4,acute,Female,75,ff796f0cbbfc0a32f86c823d5db2f699,proximal right vertebral artery,VA,NA
+52773539,occlusion,5,6,acute,Male,89,7cdc0b1ebee295d7b31677cb1c1900a4,Right proximal M1 ,,4
+52881971,occlusion,3,4,acute,Female,87,cae553e68d4a7df9ec7ad9efb2330636,basilar artery,Basilar ,NA
+52968835,occlusion,1,1,chronic,Male,53,23def95d5ef9c2a5a80f83506494089a,Left vertebral artery,VA,NA
+52971812,occlusion,1,1,acute,Male,76,6f975d88f5c28c8ff6a73354e7c2f4ad,right vertebral artery,VA,NA
+53159696,occlusion,4,4,acute,Female,83,4fbc38d5a4584150315f0cb4089f6a83,distal left M2 branch ,,1
+53261106,occlusion,1,1,chronic,Female,71,1db89d28cde8c5a55df57f410094e41e,left MCA,MCA,NA
+50807555,occlusion,4,4,acute,Female,86,5eb8e7252211f899df5d19c61190220e,Right MCA,,NA
+50873281,occlusion,4,6,acute,Female,63,c556e76d9d3e17e5a344a657952b5f5d,Left middle cerebral artery M1 segment ,,NA
+50974392,occlusion,4,4,chronic,Male,44,01c2db76b3a862e8d1a430129f91c379,distal left M1 segment,,NA
+50979489,occlusion,5,6,acute,Male,85,29a0b736c2c18e2e4aa15d715433202e,Acute right internal carotid artery terminus ,,NA
+51001832,occlusion,1,2,chronic,Male,71,35de465cce946d6528560662a47194fc,right distal MCA and left carotid bulb,5,NA
+51019415,occlusion,1,0,acute,Male,68,863334c8a7f754da63f1c2485ecf0e95,distal M2,M2,NA
+51045980,occlusion,4,4,acute,Female,73,486f6efbc350f78358dbb3b49cdabc4d,MCA,MCA,NA
+51103054,occlusion,4,4,chronic,Male,72,3906037ac3c5bf642e25d3e1bca48b3a,Distal right M1,,NA
+51133480,occlusion,1,0,chronic,Male,82,5b489de2c0218f26128be530ce46bde7, bilateral ICAs ,ICA,NA
+51174902,occlusion,1,0,chronic,Male,72,cc5ec9480cd3c35a76f8f2bbe56a8807,distal M2 segment of the left MCA and left proximal internal carotid artery and right proximal internal carotid artery,5,NA
+51183525,occlusion,4,5,chronic,Female,63,9fe328ca8846ba446c3edc1847ac2a82, the left internal carotid artery of the C7 segment ,ICA,NA
+51213068,occlusion,1,0,chronic,Female,94,238d69de7ec45537382b3a2d5a1ca0b8, M2 segment,M2,NA
+51221561,occlusion,3,1,chronic,Female,68,e6775ad4d2ed35938e1221760fda1f9f,Right M1,M1,NA
+51246522,occlusion,3,3,chronic,Male,85,307d79e0932e09dd26c7781f54d1e159,right internal carotid artery,ICA,NA
+51271415,occlusion,4,4,acute,Male,60,7f0427b8efe82bd477900a04d9d37997,right carotid bifurcation,ICA,NA
+51275040,occlusion,2,0,chronic,Female,48,1dafdafddedf6e8d23a72aafca4621ce,M1 and occlusion of the distal left A2,10,NA
+51297937,occlusion,3,3,chronic,Male,68,3c20ba3f5bd66407d4d426e0d242b3b4, left vertebral artery,VA,NA
+51302987,occlusion,2,4,chronic,Male,73,c66151656442f6476092586944145a2f,"right M2 segment.
+",,1-Apr
+51335766,occlusion,3,3,chronic,Male,72,e732df7d5055a8ee69c6c74c26474bdf, right carotid artery,ICA,NA
+51342376,occlusion,2,1,chronic,Male,90,42e603213b366d2b855a926d9ba30f27, right internal carotid artery 50%,ICA,NA
+51419787,occlusion,4,4,chronic,Male,76,4667a40ee43fda2cce80f2fb4cdb916f,right M1 segment,,1
+51508089,occlusion,4,4,acute,Female,75,ca0c6aaf6b296c512bfe3f899d95a38a,right proximal M2 ,,3
+51524924,occlusion,2,1,chronic,Female,67,82390bac649724c8581acd1fa9cae52e,left M1,M1,NA
+51525032,occlusion,2,1,chronic,Male,82,5fa615c75f2532d92945ffebea761249,right PCA,PCA,NA
+51534302,occlusion,3,3,chronic,Female,60,d6f1586417a9c7ef658b9731a55d2e8e,right internal carotid artery,ICA,NA
+51534393,occlusion,3,3,chronic,Female,77,9a1dec28958dc6a1cf8ea32f2fa8c04d, M1 occlusion,,3
+51535005,occlusion,3,3,chronic,Female,75,3ea1aa80735b36c8b03015b4a0aed986, right vertebral artery at the level of C1.,,1
+51585950,occlusion,3,3,chronic,Male,82,a0663b0a4c8a7b0f36d1531978ce16a4,right M2 branch,M2,NA
+51703167,occlusion,2,2,acute,Male,83,dc5439391cd97bcceb60b6c45684c46f,left PCA,PCA,NA
+51767659,occlusion,4,5,chronic,Female,73,709f0caf54eb27829467ec4741c33c97,right distal M2/proximal M3 branch,M2 + M3,NA
+51773869,occlusion,5,6,chronic,Female,75,d12764644824d9b0cc375c4f0cc9a355,left internal carotid artery,,1
+51778642,occlusion,3,2,chronic,Male,37,154956b598f25237d82e7a718fcda76d,Distal right ICA,,1
+51794495,occlusion,3,3,chronic,Female,55,8c0f3b21807031823abaecfbd5e546c6, distal basilar artery ,Basilar ,NA
+51844579,occlusion,1,0,chronic,Male,63,0b41f7da53ed7504289b3b097caf0f30,left M2 segment of the middle cerebral artery distal ,M2,NA
+51890484,occlusion,1,1,chronic,Male,86,3614fc2ea9552d2579a31179036d04f5, left internal carotid artery,ICA,NA
+51892139,occlusion,2,4,chronic,Male,58,723dc0aef64f8173ec02198aa2628cb5,Left distal M1,,1
+51928812,occlusion,1,0,acute,Female,83,812346e262c5fc921aba5a94f2f706bd, left MCA,MCA,NA
+51947222,occlusion,1,0,chronic,Female,44,34c8862f8125c3085621ddb94fdf6a2e, distal cervical right internal carotid artery ,ICA,NA
+51958401,occlusion,3,3,chronic,Female,58,66c449d22bd8cf7ceb67e07ae20bd854,P1 segment of the left posterior cerebral artery.,P1,NA
+51994593,occlusion,2,1,chronic,Male,59,d14517e32c6b4d4c37f136ee9170e1f2,right M1 ,M1,NA
+52036495,occlusion,5,6,acute,Male,87,425d4da75aaed766c5d9c07b1bcd962f,Proximal left M2,,3
+52065444,occlusion,5,5,chronic,Female,52,be0708a24729ef9aad9daf1ccfc91a13, left vertebral artery,VA,NA
+52100846,occlusion,4,4,chronic,Male,81,505935f5b9ff3277bb2055a5702eb0ef, left ICA from just beyond the aortic arch through the cavernous carotid,ICA,NA
+52107395,occlusion,3,1,chronic,Male,88,425238a85306a4abb89053c342da214b,right V4 ,V4,NA
+52110526,occlusion,5,6,acute,Male,64,49732e7ca54ba24366534d60213edf06,right internal carotid artery,ICA,NA
+52118057,occlusion,4,2,chronic,Female,70,217aea7e757e909876911b93d43ed7ad, left M1 ,,3
+52208000,occlusion,5,6,chronic,Female,85,472df81f3bd2a210a637a0086b09c0b6,left A2 segment anterior cerebral artery and right vertebral artery From V2-V4 ,10,NA
+52291836,occlusion,5,6,chronic,Female,72,92fbd742aa19a3b78c39871ede45d55f,Right MCA ,MCA,NA
+52297993,occlusion,2,2,chronic,Male,66,1db261a68e564cf26dcdb2291457a957,left distal M1,,1
+52317495,occlusion,5,4,chronic,Male,61,7195ddb14fe3a609d32a4d9dceb9a852, M1 segment of the left MCA,,7-Jan
+52354651,occlusion,4,3,chronic,Male,85,9a0e2013ed356ee0dcf6138c7deb0b6e,left M1,,2
+52385613,occlusion,5,6,chronic,Male,76,5ab089f8c47fd144ff3aded8c2b81632, right vertebral artery.,RVA,NA
+52444015,occlusion,2,1,chronic,Female,47,71c21279f71a11a450069721fa33eaf4, left cervical ICA,ICA,NA
+52445719,occlusion,5,6,chronic,Female,55,a47acc674d83badefab51727d036f8ba,right M2,M2,NA
+52465901,occlusion,3,2,chronic,Male,78,5fe6dd1d65a2ae9ca47ba69687b956cf,right M2 branch,M2,NA
+52471478,occlusion,1,0,chronic,Female,84,ee4214156f9ba9b0d1ff3aa0fe426244, bilateral MCA,MCA,NA
+52473377,occlusion,2,1,acute,Male,68,7c7ba5a94fcad6df04b1f47228be8e51, right M3 branch,M3,NA
+52500900,occlusion,1,0,chronic,Male,77,d1c21097d6892ae3ca16a0d97965ac0e,the bilateral subclavian artery ,10,NA
+52511060,occlusion,5,3,chronic,Male,68,1dadc04e9b6b4f5da10e5d099a57223f,Bilateral internal carotid arteries,ICA,NA
+52513983,occlusion,1,1,chronic,Male,94,a6802283627903077e955ba065313dbf,right vertebral artery.,VA,NA
+52573758,occlusion,2,2,chronic,Female,78,d02051b937f5f0ef1edefab67132cb92,"V1, V2 and V3 vertebral artery",10,NA
+52603466,occlusion,4,4,chronic,Female,71,39befa65f34e50538c0f33a6dd3250ad,Right M1,,1
+52645924,occlusion,2,0,chronic,Male,80,375550d347bf4851479af837060b3ad6, left ICA and  C4 segment,10,NA
+52658359,occlusion,2,2,acute,Female,76,47dda2a6f926e20e7e433fb77f20a862,left M2 branch,M2,NA
+52672242,occlusion,1,2,chronic,Male,67,9d79d1475c1a365fc19739e5c033650a,Distal right M1,,1
+52701394,occlusion,2,2,chronic,Male,60,0734bd7598ad4cfe206ad1b6951cd9d6, left internal carotid artery.,ICA,NA
+52728320,occlusion,4,4,chronic,Male,87,0f1de918393326bbdd06fcbe75d1b1ec,right internal carotid artery as well as the left vertebral artery ,7,NA
+52729246,occlusion,3,2,chronic,Male,71,dfe96467f9db6b2ba0dd742d74fc37c9, distal V4 segment of the right vertebral artery,VA,NA
+52757315,occlusion,5,6,chronic,Male,45,b1bcd4c9805a1405cc045745574700f7, Left distal M1 segment and left proximal posterior M3 segment ,,4
+52785266,occlusion,4,4,chronic,Female,95,dc566b318a437de0fc97baafe373ad05, M2/M3 on the left,,1
+52800649,occlusion,1,1,chronic,Female,77,cac297d0668a4689e19a4281e98f804b,M1 segment of the left middle and anterior  cerebral artery,M1,NA
+52819078,occlusion,5,5,acute,Female,88,785887ad20e6a66b08dbd8d3cdc56213, right ICA and right MCA,,1
+52820479,occlusion,2,1,chronic,Female,88,3984fdf2b582d2afb7ac9c029c90f427, bilateral A2 segments and right-sided M3 branch,10,NA
+52828493,occlusion,1,0,chronic,Male,81,6a18a1184a2409eae43a5653085f5b8e,Left vertebral artery,VA,NA
+52838895,occlusion,4,6,chronic,Male,73,2e31ddd8be2c85ef8a1faca9cd0ac74b,left M2 branch,,1
+52868805,occlusion,1,0,chronic,Male,68,4176ab4d21fdb9c5f5dddb16743887c9,right vertebral artery,VA,NA
+52871698,occlusion,3,0,chronic,Female,72,61c23d2f394d00d080590a28766adf99,right distal M1,,2
+52873930,occlusion,5,6,chronic,Male,79,3cf0d93efac87f9bddbe141d8013a98a, left vertebral artery,VA,NA
+52879153,occlusion,2,0,chronic,Male,57,ceddcf1f4a713dc58525639a55bc77d0,right ICA and  left ICA,10,NA
+52888685,occlusion,1,0,chronic,Female,74,82444a99176875f9fbf69c438208e479,left vertebral artery,VA,NA
+52898459,occlusion,3,2,chronic,Female,75,827a2145ae28de6fb80644a5aac65c5b," left ICA terminus, A1 and M1",5,NA
+52918314,occlusion,2,0,chronic,Female,74,bbce6a10e283f2c865b869ba463c54e1," right vertebral artery, right middle cerebral artery, and bilateral posterior cerebral arteries",10,NA
+52936550,occlusion,4,4,chronic,Female,91,5d96f136969cd973779dc94bb4352e81,M1 segment of the right MCA,,1
+52954239,occlusion,3,2,chronic,Male,81,9e1632eb1f5f10eeb5f58353b8aa0902,"right P2, AICA and PICA and C3-C4 level of right vertebral artery and  right common carotid artery",10,NA
+52966161,occlusion,4,3,chronic,Male,83,7dfb8048145d87ae60de5de7ef1730bc,the origin of the left internal carotid artery.,ICA,NA
+52971005,occlusion,5,5,chronic,Female,90,ceb235f98cf34302efdf7ea818dc0fb8, left M1 and left posterior cerebral artery,10,NA
+52973880,occlusion,2,1,chronic,Male,71,097bd8a2d4f09e50891dfa59b39a6bff,left internal carotid artery,ICA,NA
+53007235,occlusion,1,0,chronic,Male,66,e3a456ab19f12142c3ddbc69f56eb0ac, right vertebral artery,VA,NA
+53102326,occlusion,5,5,chronic,Male,81,945349d0cfe24d7f12fc4ba609f371df,Left distal M1,,3
+53111428,occlusion,2,1,chronic,Male,73,66c968c012f9e40558a28ee91af317f7,right internal carotid,ICA,NA
+53124199,occlusion,1,0,chronic,Male,70,99fba9af431541e933445996e11c755a,Right middle cerebral artery  and left vertebral artery,10,NA
+53130700,occlusion,5,6,chronic,Male,63,33fe5964aabdaee2cf271564c47d85da,right ICA and  left ICA,,1
+53146073,occlusion,4,6,acute,Male,81,c54e6d005e349bc9c58ab8997136ae00,left M1,M1,NA
+53207526,occlusion,3,4,chronic,Female,75,61bb21d8e7c104bd261172c3bb9a4220,left M1,M1,NA
+53226329,occlusion,2,1,chronic,Male,66,4d988fcdf5d44735bf38b5f16a052ae1, M1 segment of the right MCA,M1,NA
+53229736,occlusion,4,3,acute,Male,70,7422d9af3a6e8686ded49435d7d20d38, Left M1,,1
+53271138,occlusion,3,4,chronic,Female,87,27ed5583e5355124233cae66a58ad4ba,left vertebral artery,VA,NA
+53271463,occlusion,3,4,chronic,Male,72,9daf4066781f579fe91769ead91c5264, right vertebral artery,VA,NA
+53279125,occlusion,3,2,acute,Female,69,c3783ba4c4b1a42c81e9c3c69b8ead51,Right distal M2,M2,NA
+53283588,occlusion,4,4,chronic,Female,92,8cab944e94f7dd391804652505e2bca8, left internal carotid artery,ICA,NA
+53306893,occlusion,3,2,chronic,Male,94,97aef3ef839b51ff65880dd7e1cf4b6a,distal internal carotid arteries ,ICA,NA
+50473273,occlusion,3,6,chronic,Female,88,430b735696bb79f517b1c89f70ea534e,Left M1,,NA
+50478783,occlusion,3,0,acute,Female,66,a39c33debdfe1883f89bfa63a8ec1124,Left vertebral artery,VA,NA
+50482869,occlusion,1,0,acute,Male,44,6ac46286cc53112d10d4866b2fb0481f, left M2 branch,M2,NA
+50507114,occlusion,4,4,acute,Female,83,1b7663afab3aa3d1271ef37ff5fecf9d, extracranial left vertebral artery,VA,NA
+50518551,occlusion,4,2,acute,Female,89,f66e4e1ddf27dff78793a986c1de0139, left M1,,NA
+50535122,occlusion,4,3,chronic,Female,70,afbc61963eaa7e2586fe1cb78fe98a56,left M1,,NA
+50542084,occlusion,5,6,chronic,Male,72,ca26f8361177272f7e214043d4bc3421, right internal carotid,,NA
+50565434,occlusion,4,2,acute,Male,69,13196527b31ebd505692a055ad633562, left ICA,,NA
+50566644,occlusion,5,6,chronic,Female,90,0b01122c5363d8ec945d98e2e66c30eb,distal M1 segment of the left MCA and M2 segment of the right MCA,M1 + M2 ,NA
+50593857,occlusion,4,2,acute,Male,81,6212d0389bb1d2f38c9464b9bb9363bb, left M1,,NA
+50594182,occlusion,3,3,chronic,Female,96,f71ffb032f5be7aec02da8acf2853cef, right M1 branch,M1,NA
+50594456,occlusion,2,3,chronic,Female,56,ae2c43435fb50fd0c61bdeaa823a770f,right internal carotid artery,ICA,NA
+50607507,occlusion,3,2,chronic,Male,65,49985b3dad9520a5961053d3c51b840f,left M1,,NA
+50612632,occlusion,4,3,chronic,Male,92,1722c9a00a2660f12a45698df0a695d0,distal left M1,,NA
+50630686,occlusion,4,6,chronic,Female,73,95ebb62c41f642e6eee457977891777b,left middle cerebral artery at the M1 segment,,NA
+50648659,occlusion,4,1,chronic,Female,89,94f369b58e9b14a8e09e6abde5f38297,right M1 branch and  the right cervical ICA,5,NA
+50649494,occlusion,4,4,chronic,Male,77,69d2a37880b74a9bb6ca54e368ccd0ab, left MCA,,NA
+50659546,occlusion,5,3,chronic,Male,26,311e13ba021b1a3d6d72c142b49f54ad,Left distal M1 ,M1,NA
+50669117,occlusion,5,4,chronic,Female,60,e27ef64cf201bf99274d4032324e9c1a,left internal carotid artery and Distal left MCA M1,5,NA
+50670653,occlusion,2,1,chronic,Male,62,561c68e8a6c41aa47ff837abe4eb0355,right internal carotid,10,NA
+50673169,occlusion,3,1,chronic,Male,66,c6a7491ff424a4d651c536365a24aa21, right cervical vertebral artery ,VA,NA
+50677127,occlusion,3,2,chronic,Male,51,2a980f74cce5530155ab9aa6433f24ee, left vertebral artery,VA,NA
+50678018,occlusion,5,4,chronic,Male,77,bf8d38b1332867df1299841885c7f6d9,left internal carotid artery,ICA,NA
+50689454,occlusion,4,4,chronic,Female,86,02214cdff7742745cd26118a7c88e76a,left M2,,NA
+50695401,occlusion,4,3,chronic,Female,88,39c5e313113b96a0e49bdf13e32185bd, left distal M1,,NA
+50711785,occlusion,4,2,acute,Female,43,31dd06a61fa6b2b2c8a7461fcdbce014,distal basilar artery,Basilar ,NA
+50713780,occlusion,4,4,chronic,Female,89,abdf8b159b623d13ff57848300b4e743, right vertebral artery,VA,NA
+50727089,occlusion,4,3,chronic,Male,85,27031c95e438e2aa1c2b1a5055528f2c, left M1,,NA
+50729163,occlusion,4,2,chronic,Male,86,df2d1f69b97715607d921c1b82db74a8,right M1,,NA
+50748986,occlusion,3,3,chronic,Male,55,2472ae9e54d469125a0c922057d27bb3,right internal carotid artery,ICA,NA
+50749046,occlusion,4,4,chronic,Female,81,5a551a0d0bd9a04d33081ad9b4ba58d9, right P1 segment and  left carotid bulb,10,NA
+50761267,occlusion,5,5,chronic,Female,67,065417bafae5ccd99fd54e2ddbfece88, right M1 artery,,NA
+50763315,occlusion,2,2,chronic,Male,90,180172b15035a21c73693d6147c83056,right ICA and left ICA,ICA,NA
+50771150,occlusion,4,3,chronic,Male,54,a65708b43f187948b2201514178e93ef,right M1,,NA
+50775547,occlusion,4,0,chronic,Male,66,827c2f2fc312208b6e60cabc80b812b3,right internal carotid artery,ICA,NA
+50778157,occlusion,4,5,chronic,Female,97,4a320da448abca67e7361fd2011782e1,left internal carotid artery,ICA,NA
+50782096,occlusion,4,4,chronic,Female,84,3ae6d92f651e2c7bac43f73159326c74,M1 segment left middle cerebral artery,,NA
+50785970,occlusion,3,1,chronic,Male,86,0e681b9bfa787b6a766eb0baca7e5fa5,right distal M1 segment,,NA
+50791707,occlusion,4,3,chronic,Male,50,18cf5f7b364a9092d2f570bbf5129f19,right M1,,NA
+50794068,occlusion,2,0,chronic,Female,85,ee5bc9e92f83b32014c087a4f915f198,distal left M1 segment of the MCA,,NA
+50795383,occlusion,3,3,acute,Female,81,8d06579678f7aadf9e845ba3546dc646,the distal left M1,,NA
+50797192,occlusion,4,3,chronic,Male,60,7bbbc06e1fdd865fcf69b8e54a73fcc7,proximal left M1 segment,,NA
+50798671,occlusion,2,0,acute,Male,70,04f4cf710c30728dfb864405b8180f64, right proximal M1,,NA
+50811298,occlusion,4,2,chronic,Female,47,d202fd92c8ce3ddc376b7b0cce310ff5,Right M1,,NA
+50817451,occlusion,5,6,chronic,Female,96,4aadaf0013b08ae5725c63ab60785ff2,left M1 segment,,NA
+50817867,occlusion,5,4,acute,Male,65,f3533d6b3d7515830dcf3b7ee1d8863b,Left M1,,NA
+50820084,occlusion,3,4,acute,Female,93,aa2a0c52505825a4a2c2e30081387627,proximal left M2,M2,NA
+50838666,occlusion,5,1,acute,Male,77,b630b909b8a46f8d5b65085a64853226, proximal M2 branch of the left MCA.,,NA
+50845001,occlusion,2,0,acute,Male,61,646e30d8c3fd0b26e7051084532cbd46, the left M1,,NA
+50845587,occlusion,3,4,chronic,Female,91,ff5ba43a303d1ab9c702cca06db2ac99, Distal left M1,,NA
+50852507,occlusion,5,3,chronic,Female,71,3a5d232b3491c952a9c56452c6f27fea, the left common carotid artery from near its origin extending to the carotid bulb,CCA,NA
+50856633,occlusion,2,1,chronic,Male,63,1683d52a3f161c2f0cca650bf9fba99f, left ICA,ICA,NA
+50859243,occlusion,4,4,chronic,Female,81,144dfb73c42aa79efdb37105a9c83842,distal left M1,M1,NA
+50859215,occlusion,5,4,chronic,Female,89,659a162da1110034eb6e4c859db8ff7e,Left M1,,NA
+50859818,occlusion,5,6,chronic,Male,93,57af64afb099dd64277b3a5a158b9a1c,left internal carotid artery,,NA
+50872250,occlusion,5,6,chronic,Male,72,7b72d5dd86a482ba50ae8f7c86e41b16,left internal carotid artery and  the distal vertebral artery,7,NA
+50891910,occlusion,2,0,chronic,Female,82,2f3d80dcf09feb5b17a060398b641ec5,the M1 segment of the right middle cerebral artery ,,NA
+50903823,occlusion,5,6,chronic,Male,75,769b0e4ee925b622f1efc6c40d9a131c,right internal carotid artery and right M1 segment,5,NA
+50904562,occlusion,4,1,chronic,Male,65,da9d62ebd9b457bf590dca6d082b8eec,left ECA,ECA,NA
+50906019,occlusion,2,0,acute,Female,83,642d0e0395789b1d78fe8cb82650f238,the M1 segment of the left MCA,,NA
+50909806,occlusion,1,1,chronic,Male,78,ea5b6916da734ccd19c960623c7a07ce,left distal M2 segment,M2,NA
+50938434,occlusion,3,0,acute,Female,78,b9e71db320c947768f74c2469102634b, right ICA terminus,,NA
+50943494,occlusion,4,3,acute,Female,90,f2814434ea9fec07319f6bc6353551e9,distal M1,M1,NA
+50952373,occlusion,4,4,chronic,Female,84,4d25dc0bc39ab0d68d76e8e71233a1f5, the left cervical ICA,,NA
+50955006,occlusion,4,4,acute,Female,89,b7659a1bb0e0c4fb4b261427b5772334,right M1 segment of middle cerebral artery,,NA
+50954908,occlusion,5,6,chronic,Male,49,5ea88b2dee93c48f608acf8791e3ee6d, right M1,M1,NA
+50963641,occlusion,2,0,chronic,Male,80,a6c8a072f160d352b93eda6d2a32e3db,left internal carotid artery,ICA,NA
+50966351,occlusion,2,4,chronic,Female,90,bcf94aeb8df880ae1a7e74765b552899,M1 segment of the left MCA,M1,NA
+50969877,occlusion,3,4,chronic,Male,69,5af1378451a8e36d81ea264bf39e738d,Right proximal posterior M2,M2,NA
+50971555,occlusion,2,0,chronic,Male,69,733602dd1007d5d29c034c94ad8a18ef,left M2 branches,M2,NA
+50972855,occlusion,4,4,acute,Female,91,699bd765a59cc4c3abe09e78cf29cf00,left M1,,NA
+50983832,occlusion,1,0,chronic,Male,58,e5a6c31b8de1d0a8f714674516e2c18d,Bilateral internal carotid artery,,NA
+50985159,occlusion,4,5,chronic,Female,89,490ecfad7f7e9b48403934af02f3ab54, distal right MCA branches,MCA,NA
+50990464,occlusion,2,1,chronic,Male,81,61873e6944a3671397a5c75f9692c178,Distal right M1,,NA
+50990636,occlusion,2,2,chronic,Female,52,cd45f7f4bc439ccb22189cae14208d99, left ICA,ICA,NA
+50990692,occlusion,5,4,acute,Female,89,caaa779812a935ccda291b4045d9593a,distal left internal carotid artery and proximal left M1,,NA
+50993618,occlusion,2,0,chronic,Female,73,0f0841b30a0b1ba9fb3884f6846d7d3d, proximal right M2 MCA,,NA
+51001823,occlusion,4,5,chronic,Female,90,5a4253078f1a0cf00767b5ce474eacd8,the right internal carotid artery and the left internal carotid artery,,NA
+51006539,occlusion,4,3,chronic,Female,72,83490d4ee00db143a9da760e8277590c, left vertebral artery,VA,NA
+51019750,occlusion,2,1,chronic,Female,86,c6744da88e04a444a0aa9c0652c9a3ce,the mid left M1 segment,M1,NA
+51028955,occlusion,3,2,chronic,Male,81,59678a3aeacde2d29740323238c0f3c3,at the origin of the left internal carotid artery,ICA,NA
+51034607,occlusion,3,2,chronic,Female,90,4805118d4caab05c9e351fca043258ff, left M1 segment,,NA
+51039932,occlusion,4,1,chronic,Female,72,594d84b825e91434b2429d8ad0f7d94a,the tip of the basilar artery,,NA
+51043465,occlusion,4,5,acute,Male,83,f81481daad9fa4e9f4169fb910afa976, M1 segment of left middle cerebral artery,M1,NA
+51044822,occlusion,4,6,chronic,Female,85,7cf5b3235b7b2f4daba075a8dfb2e340,proximal M2 branch of the right ICA,M2,NA
+51047624,occlusion,2,1,chronic,Male,70,fd75879fea1bd4f7ddf0f246514979e1,the anterior temporal branch of the left MCA,MCA,NA
+51047969,occlusion,2,1,chronic,Male,68,26c3b1662eca758c5964ed544f31a24d,Proximal right M2 and the proximal right internal carotid artery,5,NA
+51049352,occlusion,2,1,acute,Male,80,2e6ff56e4f999b6a8e2cd00ff1f97360, Left internal carotid artery,ICA,NA
+51053079,occlusion,2,0,chronic,Female,41,c27853274b364772eda63f866eb711ff, Left M1,,1
+51053364,occlusion,4,3,chronic,Female,81,24e47aaa740f8f97076c0f25d9a6a7c1,the proximal M2 segment of left middle cerebral artery,,NA
+51058271,occlusion,2,1,chronic,Male,78,b154b1b18efe79597c9a3be19a71da07, left vertebral artery ,VA,NA
+51060706,occlusion,1,1,chronic,Female,61,025e8f14add8f86580bf1b6209a8c787, the left internal carotid artery at the origin to the skull base,ICA,NA
+51061252,occlusion,4,4,chronic,Male,90,df821cfbcc8e2842d1be2ae7a7acb070,Proximal ICA and  left M1 segment,,2
+51063356,occlusion,2,1,chronic,Female,79,11e1c865467feeebab5a608dd56294c6, distal right M1 segment ,M1,NA
+51064448,occlusion,1,1,chronic,Male,75,29aa793ec39f1c43719ce25cc4631451, distal left V4 vertebral artery,V4,NA
+51066950,occlusion,5,5,chronic,Female,78,4c6a64f25a4baff608a89b9b3772cbb9,left M1,M1,NA
+51081509,occlusion,1,1,chronic,Male,47,10ab51392a834f14eb88e6b4726e4eee,the right vertebral artery,VA,NA
+51082893,occlusion,4,6,acute,Female,88,0fee650c1f38e09ce9722b3f219fd0b0, M3 branch of right MCA,M3,NA
+51083473,occlusion,4,3,chronic,Male,44,861ec160d193a44733f217c4ce256a64,"the right vertebral artery and the left vertebral artery near the origin of the basilar artery.
+",VA,NA
+51087046,occlusion,4,4,chronic,Female,69,4e9788b163416e912ee890c3b62c0373, proximal left M2 MCA branch ,,NA
+51087656,occlusion,2,2,chronic,Male,33,673e618dbd6041adff2944cdf4f94fd5,right vertebral artery at the V3 and V4 segments,8,NA
+51087952,occlusion,5,6,acute,Female,86,fa3d5003a88d90556ecdc9fc971f7c74, the M1 segment of the left middle cerebral artery.,M1,NA
+51090621,occlusion,4,2,chronic,Female,71,fa3b21e0996e403be7965a46d293711e, the right M1 segment,,NA
+51096521,occlusion,1,0,chronic,Male,74,584c104ca0ec71bd630ad8dea76eb666, proximal posterior M2 branch of the left middle cerebral artery.,M2,NA
+51098734,occlusion,3,3,acute,Male,69,31276a66bbf44709fdf6fa3a3467e539, right  M1,M1,NA
+51110029,occlusion,5,6,chronic,Female,85,85c5f192408143690164174bb8ca2180,Proximal left M1,,NA
+51126267,occlusion,5,3,chronic,Female,83,c6fe0065267f4e5e8e29e62a987399d8,Proximal left M1,,NA
+51133054,occlusion,2,6,chronic,Female,79,92436405db122b1b545a1b84cdd7795f," the tip of the basilar artery, proximal left P1 segment of posterior cerebral artery and left superior cerebellar artery",,NA
+51137601,occlusion,4,1,chronic,Female,42,c6786ff641ef2bbc2f6414f281bac182,"left ICA and M1,A1",10,NA
+51149296,occlusion,5,6,chronic,Male,82,6294c9c2608f4a67bf1966e8dc1755d2,the left vertebral artery,VA,NA
+51151752,occlusion,4,3,chronic,Female,72,807ea8a7b4c1e3e2ed992c112a4a49f7,Distal left M1 ,,1
+51152342,occlusion,4,3,chronic,Male,88,5ae5ca5c99037e80991199f75c7a5002,the bilateral distal internal carotid arteries and Distal RIGHT MCA ,5,NA
+51152666,occlusion,3,4,chronic,Male,52,00fa2a6bc8bb315c81f30edb3287b8a1,the V3 and V4 segments of the left vertebral artery,8,NA
+51154536,occlusion,5,5,acute,Male,78,f937ee8cd2a9b6aac98ee53b8afbb159, right MCA ,,2
+51183280,occlusion,2,0,acute,Male,55,e524190af9b2ec79130e1d4eb8423150, the right internal carotid artery from carotid bulb to segment C7 and right middle cerebral artery M1 and M2 segments. ,,2
+51192553,occlusion,5,5,chronic,Male,72,8e3b6462d187aaaa28707117b068bb1d,the proximal M2 segment of the left middle cerebral artery,M2,NA
+51194620,occlusion,5,6,chronic,Male,85,02dce80f09291fc4bcdb502e6071cd2f, the left carotid bifurcation.,10,NA
+51195301,occlusion,3,3,chronic,Male,60,539d3303edbcb17fe92cb16984df108c,the proximal M1 segment of the right middle cerebral artery,,1
+51197973,occlusion,1,2,chronic,Male,74,304b90f12627b2bef4aad08c409cca2e,the proximal left ICA,,1
+51199853,occlusion,1,0,chronic,Male,83,6d077146f99d099aa79cef46cb8e27d1,Left internal carotid artery,ICA,NA
+51203358,occlusion,2,1,chronic,Female,96,0b0aabe823f53b533799c1990a1c43d7, Left distal M2 ,M2,NA
+51217055,occlusion,4,3,chronic,Male,86,30c8cc0878f41931471cd68820b178b7,the distal right M1,,1
+51219132,occlusion,4,6,chronic,Male,65,d10c4da15ed88090185fede6715487d2,the left internal carotid artery up to the A1/M1 bifurcation,,2
+51222454,occlusion,2,0,chronic,Male,48,ef5364e9ae33e307bc42e2ca99f3f628,Distal left M1,,1
+51222486,occlusion,2,0,chronic,Male,63,85b4c3c6ae4d7e2949139e4be4340095,the origin of the right internal carotid artery,ICA,NA
+51222780,occlusion,3,0,chronic,Male,70,61280121b105488651f110a664c8b67c,critical ICA,ICA,NA
+51223102,occlusion,3,3,chronic,Female,73,77b41d3d051827c70320c3814d52c9fe, right M2 segment,M2,NA
+51223639,occlusion,4,1,acute,Female,83,c69596013812f47d816fe7e1b72b0330,left M1,,1
+51227091,occlusion,4,4,acute,Female,84,7bfcfcbba9d43312d725f6e7e8463556, left proximal M1,,1
+51227482,occlusion,4,4,chronic,Male,75,af8ec04b2277b6d9239e2397f89d79a8, Left proximal ICA,ICA,NA
+51231837,occlusion,2,1,chronic,Female,23,5790bac21f4a59d1ba2c5cb36e15784e,Left proximal MCA,MCA,NA
+51239322,occlusion,4,6,chronic,Male,91,8343b267c88e974a7d165220593a2ead,A2 segment of right anterior cerebral artery ,10,NA
+51242569,occlusion,1,1,chronic,Male,82,76e3adf7ac2872c29f940a281e5115f2,the distal right M1 and left M2 segments,1,NA
+51249859,occlusion,4,6,chronic,Male,74,f6c7e4971aa1433b17d19de6f0975c0d, M1 segment of the ipsilateral middle cerebral artery ,M1,NA
+51262060,occlusion,1,1,chronic,Male,59,e9343ca86133f0a9f4264b42ea4765c9,right internal carotid artery ,ICA,NA
+51262789,occlusion,4,4,chronic,Female,87,982defba71dc5ea5946fb0864478c273,Left M1,M1,NA
+51263951,occlusion,4,4,chronic,Female,69,0bd35c83d2cbe367418483971cfb8b11,the M2 segment of the right MCA,,2
+51279009,occlusion,4,3,chronic,Female,86,c7b8140aedbeb0ef06b5cd2fd969e85c,bilateral ICA ,ICA,NA
+51280614,occlusion,2,6,chronic,Male,73,b465de2d93f077eb3386d4732abf002a,distal right M1 segment,,2
+51301197,occlusion,1,0,chronic,Male,52,420bdd1289f618a4fcbb9342f061e029,distal left M2 ,M2,NA
+51304054,occlusion,2,2,chronic,Male,57,6c25a422064d2b5059fa0af201ded44a,the left internal carotid artery,ICA,NA
+51310719,occlusion,3,2,chronic,Female,90,2401a5267166891f449115f9f4b7a9c2, M1 segment of the right MCA,,1
+51311494,occlusion,3,3,acute,Male,79,a072a7d715cf76f1558d7b5db1ced930, the P2 segment of the right posterior cerebral artery.,P2,NA
+51311925,occlusion,4,6,chronic,Female,85,67ec85bc68e66cc0a66ec0b34d1bab38, proximal left M1,,1
+51317538,occlusion,3,3,chronic,Female,71,38c01a928cc7a403175bc7b5f1a44178,right internal carotid artery,ICA,NA
+51318701,occlusion,4,4,acute,Female,85,12583dc372a60faeb9d468d220b28102,Right posterior cerebral artery ,PCA,NA
+51318740,occlusion,4,4,chronic,Female,97,b8fbfd29577601eb4d4912bf3aa80828,Left proximal M2 branch,,NA
+51320829,occlusion,4,3,chronic,Female,92,9ba24d6c03acb81383a6065604c21194, the proximal right M1,,1
+51330900,occlusion,1,0,chronic,Male,72,c3631151f2ab23b0b5273af07d0a614e,left ICA,ICA,NA
+51341962,occlusion,5,4,chronic,Female,67,8c222cf4bcfc16873e555ee8a45c5c25,left cavernous ICA ,,2
+51343033,occlusion,4,4,acute,Male,75,689589eae8840baa5c46acaea1012390, right M1 segment,M1,NA
+51343850,occlusion,2,2,chronic,Male,76,cb4450bd5c051e910d9be037ba0ccc0d,Left proximal ICA,ICA,NA
+51345257,occlusion,5,6,chronic,Female,79,86e3fe0196fccc3c5b14368c4fbebbf3, left internal carotid artery to  M1 segment of the ipsilateral middle cerebral artery,M1,NA
+51353584,occlusion,3,2,chronic,Female,42,2a8a77952602a8d4540f70924f6b61f5, left cervical ICA,ICA,NA
+51355767,occlusion,4,3,acute,Male,43,8e5527d8fd06b57bd24799e1367fbfa7,left MCA,MCA,NA
+51358427,occlusion,4,3,chronic,Male,71,0478dd93a5bbeff22472b537d02969a2, right ICA,ICA,NA
+51358601,occlusion,5,5,chronic,Female,85,48f9923a6e25d3ca82e9f8ef0348dfb2,Distal right M1,M1,NA
+51359806,occlusion,4,4,chronic,Female,76,70bed685251136e81568b42faefef6a9, distal basilar artery,Basilar ,NA
+51362822,occlusion,3,3,chronic,Female,93,babeb8cdb0a688cd227d87762832c9d9,right ICA,ICA,NA
+51363744,occlusion,5,6,chronic,Female,87,fcfc7714e939ec95a2945f1936cc00eb, distal M1/proximal M2 segment of the left middle cerebral artery,1,NA
+51365405,occlusion,2,2,chronic,Male,65,7b0a6172f402cd806d143282e666eb25,right cervical ICA,ICA,NA
+51365498,occlusion,2,1,chronic,Female,69,fab7f428053d9fb956deaea310cca23b, left ACA,ACA,NA
+51367047,occlusion,1,1,chronic,Female,86,1004e702aad355ce1e9d15d5e2b8d6d2, the M1 segment of the right middle cerebral artery,M1,NA
+51367063,occlusion,1,0,chronic,Male,67,13e04cdeef57fa7b7b7b396acc923c92,proximal left M1 segment of the middle cerebral artery,M1,NA
+51372030,occlusion,4,2,chronic,Male,77,8ede10f802a955695bb73979f0e43ee3,Right proximal M1  and proximal left ICA and distal left vertebral artery,,1
+51373915,occlusion,3,4,chronic,Female,75,9cd700384a10349f347efcc2b5d665b4, distal left vertebral artery segment,VA,NA
+51381107,occlusion,2,3,chronic,Male,70,d5869a0f609ea8e516621615a9688099,Left vertebral artery ,VA,NA
+51385035,occlusion,3,3,chronic,Male,86,de36ed436960b96076ded5e096716f1e,the right vertebral artery,VA,NA
+51388927,occlusion,5,6,acute,Male,90,a2dd14ce0325731b197895ce6392381d,left M1 segment,M1,NA
+51392782,occlusion,4,6,chronic,Female,89,b68147c3c883b4ef26e3ae540ae14c25,Left M2 branch,,2
+51395550,occlusion,4,6,chronic,Female,77,26ba6946acf941167d42f2eb8f95d384, right M1 segment and the right ICA and  the bulb and proximal left ICA,5,NA
+51415097,occlusion,4,3,chronic,Female,71,b6e75a5001b2171047ad2e1e726cfe0b,Left M1 MCA ,M1,NA
+51417905,occlusion,4,6,acute,Male,93,070d0f4a281af2f025ce585968c37a26, left cavernous carotid and  bilateral carotid bulbs,CCA,NA
+51420474,occlusion,4,1,chronic,Female,72,4bcdf2e132540365d3b020b237284349,M2  of the right middle cerebral artery.,,1
+51428195,occlusion,5,4,chronic,Male,57,4da2284d0273ca984551fdcd64d1cf90,left ICA,ICA,NA
+51429033,occlusion,1,1,acute,Female,87,67ba4d213bddec79358063a4668e3f16,left M1,M1,NA
+51429731,occlusion,4,3,chronic,Male,72,99e5e083b792889a66ebf417275b7f29, left M1,,1
+51441868,occlusion,5,5,acute,Male,81,84278602bfa6058513c02a9c87fb03fa, left posterior cerebral artery P2 segment,P2,NA
+51442740,occlusion,4,3,chronic,Male,84,7bda7186ca17feebcd5f6c94a68f87c6,distal posterior branch of the M2 division of the left middle cerebral artery.,M2,NA
+51444373,occlusion,4,6,chronic,Female,95,6a4060294f6ae7cfd0f3fe8d71a302b1,Distal left M1 ,M1,NA
+51446315,occlusion,4,1,acute,Male,86,cb5deb893c73aac15ed6a6d1279ab721,right M1,,1
+51455459,occlusion,3,1,chronic,Male,29,c42b89b9b336c3272515563722f728ff,bilateral internal carotid arteries,ICA,NA
+51456628,occlusion,3,3,acute,Male,83,c51181833a218e446850147d9cf07b5c, left internal carotid artery,ICA,NA
+51458813,occlusion,5,4,chronic,Female,61,755eea93fbfaf7f89b306176155b709b, distal left MCA.,MCA,NA
+51459873,occlusion,1,3,chronic,Male,73,154f0a5ac229a34b7d13c39caac67830, right internal carotid artery at the origin,ICA,NA
+51462975,occlusion,2,1,chronic,Female,74,2e2c08b3b75a94d595a9293a484e9b62, right vertebral artery,VA,NA
+51470632,occlusion,1,0,chronic,Female,83,fddfd9a61f13163fa8e24cac31a1b915, distal right M1 branch of the right middle cerebral artery.,,1
+51471555,occlusion,2,1,chronic,Female,87,a147b1f1151744895e3ef88f1d52e755, distal M3 segment of the left MCA,M3,NA
+51472016,occlusion,1,1,chronic,Male,64,0a9b49cf7ca966b2d83e51eed21b6aec, right carotid bulb,ICA,NA
+51477330,occlusion,4,3,acute,Male,65,f9145dd75306beb77832fb912609bc4f, right ICA,ICA,NA
+51489201,occlusion,4,3,chronic,Female,88,f2daf861b0255118db5b8cf3bffffd1c,proximal left cervical internal carotid artery.,ICA,NA
+51503518,occlusion,2,0,chronic,Male,79,beccb03853a6d3cb04f5d2deb6a330dc,Left MCA,,3
+51506329,occlusion,4,3,chronic,Female,89,126eeb66435ddfab03a73b3d5398803c,Left M2 ,M2,NA
+51508248,occlusion,5,5,chronic,Female,66,e28e9c9984ea461aae2108825b28f568,Left proximal M1 ,,3
+51508704,occlusion,5,6,acute,Female,75,9d1aa979733b9f6d885765d742dbbd48, right common carotid artery,,4
+51514389,occlusion,4,6,chronic,Male,74,7b786754ccc00b60204ab5a65cb20010,bilateral M1,M1,NA
+51514421,occlusion,5,6,acute,Female,93,0cc410e7687958c250e71a2d5139d30a,right M1,M1,NA
+51517853,occlusion,1,0,chronic,Male,71,889bb59759b2e5c992b191ed88c30e09,V3-V4 right vertebral artery,8,NA
+51525051,occlusion,2,1,chronic,Male,77,4b04c8ffeb081574fdb5d2f073350be0,Right M2 ,M2,NA
+51525354,occlusion,1,2,acute,Female,54,0a6bb7151e64a18c572995b02ecc6750, M1 segment of the right MCA,M1,NA
+51532207,occlusion,4,3,chronic,Female,88,7d173af9ed3366f4eafdd04325bcfbfa,Left M1 and Left vertebral artery  of V1-V4,10,NA
+51536873,occlusion,1,3,chronic,Female,76,bb567afe9ab9057f8f504d2e53c8d436,Left MCA ,,2
+51540665,occlusion,2,0,chronic,Male,54,fe3636edee4eacf61f4197821acc7d61, right internal carotid artery,ICA,NA
+51541656,occlusion,4,5,acute,Female,62,17a7643e459892ff61bba1edd6e50b2c,left M1 segment,,7
+51543235,occlusion,1,0,chronic,Male,66,47b848c416771eeab93c3f4ad03c60d4,left cervical internal carotid artery,ICA,NA
+51543723,occlusion,2,1,chronic,Female,85,9af53e6eac215654b66cd6bf726eb359,proximal basilar artery,Basilar ,NA
+51545227,occlusion,4,4,chronic,Female,82,d7d70c534f7154d49279a7e4e7189446, left M1 ,M1,NA
+51545273,occlusion,5,5,acute,Female,78,41a73a179980bc986605210558c865a2, right MCA,MCA,NA
+51548474,occlusion,2,0,chronic,Female,80,459d6b2119a921129c0a0e7776f1372c, Distal left M1 ,M1,NA
+51552131,occlusion,4,3,chronic,Female,76,95f63d08fb91869137c0f1aaf273ed6e,Proximal left M1 ,,2
+51553767,occlusion,4,4,chronic,Male,64,fc8d37ae6feae7ef25e74acf93eeec40,proximal M2 and distal M2 branches of the left MCA ,,2
+51558747,occlusion,4,5,chronic,Male,57,e3576bc6a225027018125eb238f5db12, M2 segments and left P1 segment,10,NA
+51560830,occlusion,2,6,chronic,Male,73,2d6061a0c432523ebcc8063572dff979,left and right internal carotid artery origins,ICA,NA
+51565696,occlusion,2,1,acute,Male,96,1f5bd1d61bf30a5b8ff259b64547ec59,right M2,M2,NA
+51567616,occlusion,2,0,chronic,Male,60,eb1afa1bcb9899e1e56a10ed83e7de16," M1 segment of right middle cerebral artery and the left vertebral artery.
+",,1
+51568516,occlusion,4,4,chronic,Male,86,ebc431e0c7bd4b4b62039fdd75710b7d,Left distal M1,,3
+51569487,occlusion,4,2,chronic,Male,62,95de9f3aaeae78f789ff668c9908b021,distal M1 portion of the left MCA,,1
+51569701,occlusion,3,1,chronic,Female,92,863bf37b9b7a29ee238a580af13039a4,Proximal right M2,M2,NA
+51572776,occlusion,4,4,chronic,Male,82,4c71c3f3f9ce072e01db123f1ea97e43, left M1,,1
+51578226,occlusion,4,2,chronic,Male,60,36b02fa5a2e72e53f5519f8629ef04c1,the left proximal internal carotid artery and proximal left external carotid artery.,10,NA
+51585336,occlusion,2,1,chronic,Female,73,6e4bcb52ef971f42def5880435d11a6e,Proximal M2 ,,1
+51585358,occlusion,4,3,chronic,Male,48,7f3f6109e35fc963a1d787b0f80ffbb7,"the right internal carotid artery and  proximal M2 branch of the right middle cerebral artery.
+",,1
+51586353,occlusion,4,1,acute,Male,56,4652bf08fd8643b719fe2bd30ac1aef9,right supraclinoid internal carotid artery,,1
+51592338,occlusion,4,2,chronic,Male,64,f5e2ec6cc9f62153156c5ab44bb88c31,right ICA,,1
+51597466,occlusion,2,4,chronic,Female,81,63fab349bdd4728f93e91ae4b35202d1,left M1,,NA
+51606435,occlusion,3,3,chronic,Male,62,49eef24e6e5cca47e32222a2989e8244,Internal carotid origin,ICA,NA
+51631496,occlusion,1,0,chronic,Male,80,05996cb5bcfdafbdb7981df9078c088d, proximal right internal carotid artery,ICA,NA
+51637409,occlusion,2,6,chronic,Male,70,6bb844c457ba252508a6d6b34eba5f81, right P1 segment,P1,NA
+51640701,occlusion,4,3,chronic,Male,82,4714dc197fc209482e1e45c0af4150cf,right internal carotid artery and right M1 segment,,1
+51648366,occlusion,4,3,chronic,Female,92,a532e5d1009eeee1c2ab830de1ca9083, proximal M1 and superior M2 branches and Right M1,1,NA
+51649072,occlusion,3,3,chronic,Female,88,7464a8209cce2b53c786cbd08dc44f8a,M2 segment of the left middle cerebral artery,,NA
+51650479,occlusion,4,6,acute,Female,92,2cd406362fde94ffc8103c61bfe5cdbc,left M2 branch,,2
+51652015,occlusion,3,3,chronic,Male,76,0f936d0ae7f75d64877d2af0f45d8838, left anterior cerebral artery A2/A3,10,NA
+51652336,occlusion,4,1,acute,Female,79,ffb4e81a634f582a59a36f96b3593d6a, M2 branch of the left middle cerebral artery,,1
+51653232,occlusion,4,2,acute,Female,65,21be9dd5a1bb7a6608c265d72557b1d3,right M1 segment,,1
+51654133,occlusion,1,1,chronic,Male,47,4c1426af9508be8656ff08ea201c80bd, distal left cervical ICA,ICA,NA
+51661588,occlusion,2,1,chronic,Male,60,7e45bba0d8328b30cf7843cdcac3d29c,left ICA terminus and proximal M1,5,NA
+51662045,occlusion,2,1,chronic,Male,63,ed905d5eaa13d43f2434adb1cb186c6c,the origin of the left internal carotid artery,ICA,NA
+51667871,occlusion,1,0,chronic,Female,68,976b67708d3e9cb9d6f1e4d90760166a,Distal right M1,,1
+51669186,occlusion,4,4,chronic,Female,96,1b51970f08396deeadbd408a5ab15a18,left internal carotid artery and distal left M1 segment,5,NA
+51670731,occlusion,4,6,chronic,Male,89,6df00bc899be93b3bdcb5623d3a50143,Proximal left M2 ,M2,NA
+51670791,occlusion,4,4,chronic,Male,54,271de931db2ea9536b0f7d9476465b42,Right M1 ,M1,NA
+51677677,occlusion,3,0,chronic,Male,73,a8c4af9bc7c64aa2f635102e221392ab, right vertebral artery,VA,NA
+51679952,occlusion,5,5,acute,Female,88,ba1610fcecd4ef377db90576ac77dee5, right high occipitoparietal,PCA,NA
+51682439,occlusion,3,2,chronic,Male,30,2dbe581b525c4cb22d6a08cc25d9943e, distal right M1,,2
+51684672,occlusion,3,5,acute,Male,61,ffb1f541b274bf55cd283ced9c630069, left distal M1,,2
+51697705,occlusion,5,4,chronic,Female,40,8238690d4d9c78f216ff55c526b36bd8,right M1 branch of the MCA,M1,NA
+51698489,occlusion,4,4,chronic,Female,94,f6272408251575e4a250a4a6e4f450d1,right vertebral artery,VA,NA
+51712264,occlusion,4,3,acute,Male,67,7c91ee3d053f5d3f1b14d679c7e76c0c,Proximal left M1,M1,NA
+51712467,occlusion,3,2,chronic,Female,90,a0c84bba90f9565781cf109170a272be,Left M1 segment MCA,M1,NA
+51722889,occlusion,2,1,chronic,Female,93,bb74e2636243ee95d7c1425fa772603d,Left M1,,1
+51726045,occlusion,4,3,chronic,Male,75,c6ae48fb966fb52f41347b9bcbbbf808,Proximal left M2 ,,3
+51726899,occlusion,4,4,acute,Male,81,b6ce006504c2a4a93c585278cd01f53a,Right proximal M2 ,,NA
+51731411,occlusion,2,1,chronic,Female,89,46f1a01e0fe093ce03720508d4d0dd88, Distal left PCA,PCA,NA
+51734494,occlusion,1,0,chronic,Male,62,85eae01841dc6a5672494c48e072350e,left vertebral artery ,VA,NA
+51735050,occlusion,5,5,chronic,Female,80,7ae669aca15e8cea9f551ef615bfaf59,proximal right vertebral artery,VA,NA
+51735775,occlusion,5,6,acute,Female,73,4cb668b605e6b11946595285ec15b888,Distal left M1 ,M1,NA
+51737526,occlusion,4,3,chronic,Female,93,b61ae46101a2ad64273b2c864681b210,Right M1 and right vertebral artery ,,1
+51739765,occlusion,5,5,chronic,Female,77,225afb733a1c05e7bf37a45d5d30b482,distal right M1 at the MCA bifurcation.,,2
+51740293,occlusion,1,0,chronic,Female,55,f41b0657e58d2601da82bb746a729329, left ICA,ICA,NA
+51741046,occlusion,3,3,chronic,Male,66,412d07c925ff86538f1ca5f8e3255a0a,left CCA and left ICA and left M1 segment,,3
+51741832,occlusion,3,3,chronic,Male,91,20478900308fa1a2b08e03a3d1584464, right cervical ICA,ICA,NA
+51745451,occlusion,2,1,chronic,Male,75,245056d99def6bc83756244a71d37cd9, right vertebral artery,VA,NA
+51744966,occlusion,4,3,chronic,Female,66,b1881d57c5801bb598cec74f3e2bd4fd, right internal carotid artery,,1
+51747886,occlusion,4,6,acute,Female,65,3f9561d1e08421708635b9d8a91411af,Left distal M2 branch,M2,NA
+51758502,occlusion,4,3,chronic,Female,82,632bb315f2f306420353c34ce9e32164,Left proximal M2 ,,1
+51775338,occlusion,4,3,chronic,Female,71,1ac1bfc6d1f5160cc7b8f15272929762,right M1,,1
+51776648,occlusion,3,4,chronic,Male,70,b83b2456c572f65bab37e10243a1e48c, left M1 segment,,3
+51778010,occlusion,4,1,chronic,Male,74,8ce5f9a7c7cb7596724219f818b69bd0,left ICA and left M1 segment,,1
+51778085,occlusion,5,6,chronic,Male,70,73d26956db8df97ba244a6b6c832f7d7,left proximal M2 segment,,2
+51781907,occlusion,3,1,chronic,Female,58,9900e91c5e8381b5d1641870aaf32017,right cervical ICA ,,1
+51782036,occlusion,3,2,acute,Female,53,f77c01a669e535b7f38a51328cd5871c,the distal right M1,,1
+51784001,occlusion,1,1,chronic,Female,78,959035d5c33b84dda01f5a5116b36f0d,origin of the left internal carotid artery. ,ICA,NA
+51786951,occlusion,4,0,chronic,Female,75,5c3c0c7d24313caa8cef0d1cc5cd1577,Right M1 ,,1
+51788186,occlusion,4,3,chronic,Male,93,14e543b34dcc104c0b30c7efc08d22a1,Left M1 ,,1
+51788214,occlusion,4,2,chronic,Male,67,5da7845015eb3b41000269691cbe724d,Left cervical internal carotid artery and  M1 branch of the left MCA,,1
+51788443,occlusion,3,3,chronic,Female,64,7316216f12e5591f6aded1d7abc5be92,proximal right M2 branch and  right internal carotid artery,M2,NA
+51787905,occlusion,4,3,chronic,Male,81,7c3d18ea1871e2ab1a544f4390392550, M2,,1
+51791323,occlusion,1,1,chronic,Female,91,5868b952f5157709163446243c67fe8b, left internal carotid artery,ICA,NA
+51792430,occlusion,4,4,chronic,Female,72,cd772e7190a133a16a42d9f0cda16022,Left M1,M1,NA
+51796260,occlusion,4,0,chronic,Female,62,47ea443d1842cc3c25ca81b233e266e7,Distal right M2 ,M2,NA
+51803306,occlusion,5,5,chronic,Female,84,49c391b64ec56b10a371af1e7cd247c1,Left middle cerebral artery ,,1
+51805933,occlusion,4,3,acute,Male,67,cf1e5e1372dc47035eadab6977d0d038, right internal carotid artery ,,1
+51805894,occlusion,4,4,acute,Female,93,8c9f238449953d8b080ecb52485b761c, left M1,,2
+51814135,occlusion,3,3,chronic,Female,89,987e6a71055c9fd54203aca917d6d4db,left PCA,PCA,NA
+51815589,occlusion,4,3,chronic,Female,81,ec437852e5eb16041470a2200a741855,Right M1,,1
+51821557,occlusion,4,3,chronic,Female,61,adfc182d74a2cd38533dadc01f46cdb0,proximal M2 segment of the right middle cerebral artery,,1
+51824738,occlusion,1,0,chronic,Female,89,b1baa31cad5131cd1017ca581ec77d49, left internal carotid artery,ICA,NA
+51829197,occlusion,3,1,chronic,Male,49,aed127827f7dabbbd984041e3467c628,distal M1 and proximal M2 branches of the right middle cerebral artery,,2
+51829484,occlusion,4,2,chronic,Female,79,2dd7a10ef4353e9ed6084ccdc352251b,left distal M2/proximal M3 segment,2,NA
+51830802,occlusion,3,3,chronic,Female,67,f168e1f6e28ef24656c743a5230c13f3, mid to distal M1 segment ,M1,NA
+51830857,occlusion,1,3,chronic,Male,75,bd13c76d6d393e0a1fcc43e396d22b00,left distal M1,,2
+51832384,occlusion,4,6,chronic,Male,75,47f16c06af6d5a4b1822bec1d58d3261, left M1,,1
+51834688,occlusion,3,3,chronic,Male,71,1b788e7b8796b1d1c400ddc7e4347287,right ICA,ICA,NA
+51838701,occlusion,2,2,chronic,Female,42,1670096f71abcc8f1a9f421f30afd890,Right M1,M1,NA
+51839737,occlusion,4,2,chronic,Female,94,95479141d96be74795a935a23d57f6dd, right M2,,1
+51841134,occlusion,2,4,chronic,Female,78,5b2f390eeafbaac813c6117cde5e32be,Distal left M1,,1
+51841389,occlusion,3,2,chronic,Female,53,ef783d10fbc91048e0a0a3cce572ec66,"right MCA, ACA, and ICA",10,NA
+51845392,occlusion,5,5,chronic,Male,87,195aa3cfe03e633fdb06c8021081eac9,Left M1,M1,NA
+51845625,occlusion,4,0,acute,Male,78,97d76c6b7ff9d235d1dbbd5c8981be68,right internal carotid artery,,1
+51846012,occlusion,5,6,chronic,Male,69,0b5b0eeb9747e4b67c5bd9ece5bb40d3,left common carotid artery and internal carotid artery ,,3
+51853954,occlusion,3,3,chronic,Female,68,912e945d138e3283997d5d03f9da45b0, right internal carotid ,ICA,NA
+51859075,occlusion,3,5,chronic,Female,48,8f17f2c626d5ba82937df072b709079b, bilateral proximal M1,M1,NA
+51860808,occlusion,1,0,chronic,Female,80,c2db739ba59273539fed6acf7146f49b,right internal carotid artery,ICA,NA
+51866713,occlusion,0,4,chronic,Female,81,04dee98b9a6bf8605d6b0ee3af1350cd, left internal carotid artery. ,ICA,NA
+51867177,occlusion,1,6,chronic,Male,88,29d1e7a20efbe717494259d0ff1c543e, right vertebral artery ,VA,NA
+51874395,occlusion,1,3,chronic,Male,81,eef3c13cb5de76bdaf12c895555b4d78,Distal right M1,,3
+51874866,occlusion,4,6,acute,Male,79,ffb621ff8d890e81f9738a9e7168cd21, left M1 segment of the left MCA,M1,NA
+51875012,occlusion,2,2,chronic,Male,62,c33a0e5c7aa5c00741c6c60217538771, M2 branch ,,2
+51879616,occlusion,2,0,chronic,Male,72,7239bb2825838155f8b7226c7ba8f21d,left ICA terminus,ICA,NA
+51880825,occlusion,5,5,chronic,Female,87,ce5c30cee24c4d5b941ab85b05231525,Left M1 (of MCA),,3
+51883091,occlusion,1,0,acute,Male,65,9ecdb438e24635d11c470938f8014585,bilateral vertebral arteries and basilar artery.,,NA
+51883636,occlusion,4,5,chronic,Female,86,12af4c30c8be6b78384aac424a10ec37,left ICA,ICA,NA
+51887406,occlusion,5,6,chronic,Male,64,f417e0afc69cdf6448221c72ad3a0c2f," left cervical internal carotid artery and  distal M1/proximal M2 segments on the left.
+
+",,2
+51889399,occlusion,1,0,chronic,Male,63,511fcbc5504135d3543054a7d7f2e627,right ICA,ICA,NA
+51889919,occlusion,1,0,chronic,Female,80,361e72189c8ebe1fc3d7e4728c9dc4df,the P2 segment of the right PCA,P2,NA
+51894384,occlusion,1,1,chronic,Male,96,5d6bc04ed116f5620c8a1766a0e334c4,left distal M1,M1,NA
+51897082,occlusion,1,0,acute,Male,93,98bbec8aa9110764fc86b32c79405a8a, left vertebral artery,VA,NA
+51899381,occlusion,2,1,chronic,Female,87,60db173db35099f376a29bfcbe53289e,left distal M1 versus proximal M2 segment of the MCA,,1
+51907168,occlusion,5,4,acute,Female,78,47b1ead176458b2b4b84a45300b2bddc,left M1,,2
+51905184,occlusion,3,2,chronic,Male,58,a69b7efcc413c102fb99531f842451ee, right internal carotid artery and  posterior cerebral artery and  left internal carotid artery,10,NA
+51909906,occlusion,4,2,chronic,Male,64,d7ac1aafa5249c9e92a87cdb0234f284, right cervical and intracranial internal carotid artery and right M1.,,1
+51910549,occlusion,3,1,chronic,Male,76,0ea561a0bd4303b68851c94fa365b89a, right vertebral artery,VA,NA
+51912382,occlusion,5,5,chronic,Male,60,e974fddb80c520584e995ee55dd08207, left proximal ICA,,1
+51916604,occlusion,4,4,acute,Female,73,a29fd1847c85b6e7efaacd8dd69fba3f, proximal M2 branch left MCA,M2,NA
+51922961,occlusion,4,3,chronic,Male,83,2ea83ff4d405b22e308770bfe897ab13,Right M1 ,,1
+51925435,occlusion,1,1,chronic,Female,60,b24571fd3e80518c05923a3a085123a5, right internal carotid artery,ICA,NA
+51929248,occlusion,4,3,chronic,Female,98,3ff47b5c90368256746d04ebfb9768c9,distal right M1 segment ,,2
+51931462,occlusion,3,3,chronic,Male,59,65bd13ecbcce88cd04eb5b5eb81dab0b,Distal left M2 ,M2,NA
+51935674,occlusion,1,1,chronic,Male,84,25147e18ff878783ea067d9b0f2057ec,right internal carotid artery,ICA,NA
+51936558,occlusion,2,2,chronic,Female,63,9539a732f6256d54784cd5c6f593c3df,right vertebral artery,VA,NA
+51940955,occlusion,1,1,chronic,Female,77,44e0772d6a93240329b7e0938f0bb5bb,left and right proximal ICA,ICA,NA
+51944597,occlusion,3,2,chronic,Male,61,a74f830c1adc221ca6e85617ff7bf972,right internal carotid artery,,1
+51946063,occlusion,4,4,acute,Female,79,a7b3322508edbea905c48a0f082a04c2, left proximal PCA,PCA,NA
+51949262,occlusion,3,2,acute,Male,60,c604a1e21f9d791a44b3716be8cf02b0,left PCA at the P2 segment.,P2,NA
+51950611,occlusion,4,3,chronic,Male,94,c00477560e41c70ef3179ff5389820dd, M2 branch,M2,NA
+51955541,occlusion,4,3,chronic,Male,71,9549edc0d8540178139850691703ac2d,Distal right M1 and  left ICA,,2
+51956959,occlusion,2,1,chronic,Male,50,41e065ed43224947bfd2abe639c1f537, distal left M1 segment,M1,NA
+51957480,occlusion,2,4,chronic,Male,84,419f9f82f0372592f032f782dc378025, left ICA and distal left M1 segment,,1
+51958739,occlusion,5,3,chronic,Male,62,50443cbdda89901a420fc3ebe770c66e,V3 segment of the left vertebral artery ,PCA,NA
+51961782,occlusion,5,6,acute,Male,85,bca34a71cab0be413257bfe23c280d32, left internal carotid artery terminus and M1,,2
+51962518,occlusion,5,6,acute,Female,95,f7b1576598e61ade25d31c5d4f4edf93,left internal carotid artery,,1
+51964387,occlusion,1,0,chronic,Male,64,1b178177f08b53f5364c15410e4d2239, distal M1 segment of the right MCA,,2
+51965827,occlusion,1,1,chronic,Male,69,cd95dcd9a1f92b467fe6d4a24c73eedd, left vertebral artery,VA,NA
+51973013,occlusion,2,2,chronic,Female,72,8eddc1add9d9b72793e5b7b8df4311b8, right M2,,2
+51974665,occlusion,5,4,chronic,Female,85,cafa2f198f18a60065f044df0cdd1be9,Left M2,,2
+51974961,occlusion,5,5,chronic,Female,61,8aa0d91ca251753f3b2e61af8cb18916,left distal ICA and left M1 branch of the MCA.,,1
+51975621,occlusion,3,1,chronic,Male,84,6966ae84304b95a5377715b4cd134145,Right M1,,1
+51976753,occlusion,4,3,chronic,Female,74,b6eabd37a3501d7e59ab5d6e4557100e,anterior MCA branch,MCA,NA
+51977570,occlusion,0,0,acute,Male,66,1bc781b5720839ccd116f34debf55118,right and M1 branch,M1,NA
+51980452,occlusion,1,1,chronic,Male,64,9c2f11713b7fd054f1c99e42f9e02220, left vertebral artery ,VA,NA
+51989681,occlusion,3,5,chronic,Female,70,2edb8bc9274e3cd28c1b3fa961eb3980,left M3,M3,NA
+51990258,occlusion,2,0,chronic,Female,81,ab3609852b7f12ba49962d96bb3fddd8,proximal right internal carotid artery.,ICA,NA
+51990842,occlusion,2,2,chronic,Female,69,b152cd91e178026cd95e3dd861dc3a93,Left ICA and M1 ,,2
+51993390,occlusion,4,6,chronic,Male,65,a29a68724c18683832c90c7cf585a968, left anterior M2 segment,M2,NA
+51996535,occlusion,3,3,acute,Female,76,4c860753a47f3d2cbd05bb314498a6bc, RIGHT M1 segment,,1
+52000074,occlusion,5,6,acute,Male,67,29131a0536b299959218a9675ea4b473,Basilar artery,Basilar ,NA
+52002008,occlusion,4,5,chronic,Female,59,efa62d35d3b604f1051a84cb529f8576,Distal right M1 ,,3
+52006443,occlusion,4,6,chronic,Female,73,0e5405a129f81a531f8dd0a62608f864,distal left MCA branch beyond the M3 segment,M3,NA
+52009752,occlusion,3,0,chronic,Male,56,cdca1e25e95e24a58a6d860a3e273430, M1 right internal carotid artery,M1,NA
+52021448,occlusion,4,0,chronic,Male,79,9cd4cfae07b82468596a300bbed98a1e, M1 segment of the left MCA,,2
+52022808,occlusion,3,3,chronic,Male,74,9ff98aaa47e6eaedcde7df28345b87f4,right internal carotid and left internal carotid artery,,1
+52023935,occlusion,3,3,chronic,Male,66,b70ce775db4825133669261b47921138, left carotid,CCA,NA
+52027079,occlusion,4,6,acute,Female,85,92d949b608ff87303f4a5c4be89aa8ba,Right cervical ICA,ICA,NA
+52027388,occlusion,1,0,chronic,Male,60,3605de90868ec1aa0bca01e8fad20943, Right M1 ,M1,NA
+52027840,occlusion,4,0,chronic,Male,28,47a658046a81b3a7551773f5a364c016,Right M1 segment ,,1
+52031528,occlusion,5,4,acute,Female,87,b7e9c4157bcc25c3f2280c3982e118b4, left M2,,1
+52036764,occlusion,3,3,chronic,Female,88,e6288df3516611e39f8a5cbe9c645d49, basilar artery,Basilar ,NA
+52039332,occlusion,4,4,chronic,Female,66,e86648dfaa8edd7a6172a77c1218f6d6,right internal carotid artery ,ICA,NA
+52039876,occlusion,2,1,chronic,Male,78,dac3d02eb4c2a5d2c0e5ff8f8cfc4faa, left M2 segment,,1
+52040290,occlusion,4,3,acute,Female,83,279927e5b904410dc008cdc9d43f508b, distal M1/proximal M2 on the right side,,1
+52041727,occlusion,1,2,chronic,Male,58,2d695246216355d0c638004c16519f2f, proximal right internal carotid artery,ICA,NA
+52045858,occlusion,5,6,acute,Female,79,bdac9ef66defdeaa4f40af05610e673a,right ICA ,ICA,NA
+52046328,occlusion,4,3,acute,Female,56,f7aa8d58ed69a733341c86a7b8a5cb96, right M1,,5
+52050283,occlusion,3,3,chronic,Male,86,f62b3ca50b19bb9c9ef1f163ea80aef9, left ICA,ICA,NA
+52053598,occlusion,4,4,acute,Male,75,088e75cb3ba08f6e25e68f2becc3adb8, right M1 segment of the middle cerebral artery ,,2
+52053755,occlusion,3,3,acute,Female,96,5df86c5e44ea34e0ad4d62fd6561ddda,left vertebral artery,VA,NA
+52056653,occlusion,4,3,chronic,Female,76,8115946e4be1f6f08a919ba7d1c63538,distal M1 segment right MCA ,,1
+52057917,occlusion,5,6,chronic,Male,57,6853139b5679d85006fd5ff43047008a, basilar artery,Basilar ,NA
+52062308,occlusion,4,3,acute,Female,66,e9e71a03d30be1308826a1142679fd59, left ICA and left M1 ,,2
+52069212,occlusion,2,1,chronic,Male,75,67e5fb28d52848c41219fcd8ca0cec83,proximal right internal carotid artery ,ICA,NA
+52069904,occlusion,1,1,acute,Female,80,913733bfd31d85e194835465745bb1ba,Right M2,M2,NA
+52072928,occlusion,2,4,chronic,Male,91,d38c46c679339ff498ab054f846bc0b0,bilateral internal carotid,ICA,NA
+52072379,occlusion,4,3,chronic,Female,57,9e0d45b3fc48b98b87b15aa1c8a7b7b5,right M1 ,,1
+52082043,occlusion,3,3,acute,Male,48,c1235a8bc7270f96c158fdfdd8f9abec,distal right M1,M1,NA
+52083709,occlusion,0,0,chronic,Female,73,c1af9d53d8e11c0984f5b813e7760f11, right vertebral artery,VA,NA
+52084288,occlusion,4,3,chronic,Female,86,073e5c0adb7ef40016ca328c533620ee, right carotid artery,,1
+52083973,occlusion,3,6,chronic,Female,87,1da7bb16799ee8a81348cd45cdcd8f93,Left internal carotid artery,ICA,NA
+52083967,occlusion,4,6,acute,Female,94,4159435e6150275f6e3b81f3389b6e0a,right M2 artery,M2,NA
+52092113,occlusion,5,6,chronic,Male,71,6b4dd8d751dc61ac577a0d1f5c9e8ae6,basilar artery,Basilar ,NA
+52092512,occlusion,4,3,chronic,Female,51,95c092a2f020b38a7b3dbfc35dfe611d,the left MCA ,MCA,NA
+52098000,occlusion,3,3,acute,Female,71,ca8c01011e02df6ea703d1ddb47ae0f1, left distal M2 segment ,M2,NA
+52098153,occlusion,4,0,chronic,Male,63,04fef95486f1ed341b439758737bdffe,Left M1,,1
+52100370,occlusion,5,5,chronic,Male,45,9fe12c68e5214c7d3e5a8f7033b95ffa, left internal carotid artery,,NA
+52106205,occlusion,1,1,chronic,Male,84,09316f94e61020fd7ee7c645f32a0440, origin of the right internal carotid artery.    ,ICA,NA
+52108190,occlusion,4,4,acute,Female,87,d34ef4adcf5aa035a181e3aa006a5a5e,left ICA extending to the M1 segment,,2
+52109861,occlusion,1,0,chronic,Female,78,fb0c8a920fab019c46418e934874d55b,distal left M1 artery,M1,NA
+52111273,occlusion,5,6,chronic,Male,89,8f134f8402108fcd618eb3c3612e23ce,Right M1,,1
+52111741,occlusion,4,3,acute,Male,79,c06e0be7c6179d4bd55a40b5a8f16385,proximal left M2 ,,1
+52112890,occlusion,2,1,chronic,Male,75,46031f66a8bcaf23ceda7530b8c11d34, right vertebral artery,VA,NA
+52113060,occlusion,4,1,chronic,Male,58,fb1589e6f32faafa08d70c51af8cf230, Right M1,,1
+52122247,occlusion,1,0,chronic,Male,60,b12ed37dc81575666195256dc19ea04e,right ICA origin,,2
+52124307,occlusion,4,1,chronic,Male,60,65a22b96426cff1bebb85c6833c6db73, left internal carotid artery ,ICA,NA
+52126462,occlusion,3,3,acute,Female,64,82490b31d02bcf47cde638d3803f42b2, Distal left M1 and  proximal M2 branch vessels,,1
+52126496,occlusion,1,0,chronic,Male,59,222416ac4aeb72c9fba6687e82dcabc6, right internal carotid artery,ICA,NA
+52132060,occlusion,2,0,acute,Male,62,ad9e8a8f77d305ab75e64565c810b94e, right M1,,1
+52137328,occlusion,2,0,chronic,Male,38,7371efd7c28153307897ec8014d14354,right middle cerebral artery,MCA,NA
+52137808,occlusion,0,0,chronic,Male,94,2f590e10ff94244b71a906b61671f529, left internal carotid artery,ICA,NA
+52139009,occlusion,1,0,chronic,Female,77,41b90ac1632cff21bb0ef595960f1fda,Left M1 and  left internal carotid artery,,2
+52139615,occlusion,4,4,chronic,Male,66,6d155de2a51c83eea56740750426d223,Right M1,M1,NA
+52142303,occlusion,3,1,chronic,Male,53,d19e70beee37dedb9e0facc8829f8ab8,right internal carotid artery from the origin to just distal to the cavernous portion,ICA,NA
+52141315,occlusion,3,3,chronic,Male,82,504bb52e2be74a13eedf645bb847a4a7, proximal M2 branch of the left MCA and  right ICA,4,NA
+52142647,occlusion,1,1,chronic,Female,63,430ded9071108677232f628d24f43642,"left internal carotid artery, right M1 segment and both A1 segments. ",10,NA
+52154660,occlusion,3,6,acute,Male,86,818ca9207ec3060c3f73e6059f4e7564,left vertebral artery ,VA,NA
+52155510,occlusion,1,1,chronic,Female,70,2f95f6efb745ac4967c02a5c04f67b97,origin of the right internal carotid artery.    ,ICA,NA
+52157703,occlusion,1,0,chronic,Male,89,5c5a6ef49ae3d2cb51c880ccbd4cc1ac,Left proximal internal carotid artery,ICA,NA
+52161615,occlusion,1,1,chronic,Male,62,244416872000de406557b023b1d85cd6, right internal carotid,,1
+52159878,occlusion,4,4,chronic,Male,71,2b83c80cba0a6ea88ef600c5c92b44dc, Left M2 ,,6
+52160270,occlusion,5,6,chronic,Female,83,eb2479d0f06cbb7492ca18c46b7eb71a, Left  M1,,2
+52167178,occlusion,3,3,chronic,Male,78,f6c721f143d9c568ef174577024c8f12,Right M1 and right ICA,,1
+52168749,occlusion,5,6,chronic,Female,90,52e10b139efdfd28e0b4f5f96e39e551, left M1 MCA,,1
+52169065,occlusion,5,5,acute,Female,68,5a2fcf433038dff7c21c958839c82389, left common and left internal carotid artery ,ICA,NA
+52170295,occlusion,3,2,chronic,Male,54,e83c8771c90c5aa35ccc9941eb94d40f,left vertebral artery,VA,NA
+52173054,occlusion,4,1,acute,Female,76,341b6a140051b3f5b1b0ead9823139f0,Mid right M2 middle cerebral artery segment,M2,NA
+52171663,occlusion,4,5,chronic,Female,86,6b52d9efc0438b59b111707c1e18ca39,Right M2,M2,NA
+52170893,occlusion,5,4,chronic,Female,58,d1b7247e2d8a23b546b5c293735a1dad,Proximal left M1 segment ,,1
+52173600,occlusion,1,1,chronic,Male,96,2ae1ea2928fccef56dfcfaed2c973269,V4 segment of right vertebral artery,V4,NA
+52174456,occlusion,3,3,chronic,Female,94,6c32e78b993cd729b0d2846e449fdde6,distal left M1,M1,NA
+52177466,occlusion,1,0,chronic,Male,52,bd7d5c2ed3b9a9464a1568161728585a,left V1 and V2 segment,8,NA
+52177839,occlusion,3,3,chronic,Male,80,9757e03153992ccb21312fa216a68089,right vertebral artery,VA,NA
+52178645,occlusion,2,4,chronic,Female,95,2f08d65c69d4257d185d778f3c0a3b46,right posterior cerebral artery,PCA,NA
+52178873,occlusion,5,6,chronic,Male,81,a395660086f6dd655b4eacf300e5badc,right M2 segment,M2,NA
+52183712,occlusion,4,4,chronic,Female,74,6d48bd1337a7e9bed4ef4169a4225d62, left ICA,,2
+52184156,occlusion,1,0,chronic,Male,79,619775a9ce0bceb423fc06dae9d2895e, right proximal M1 segment,M1,NA
+52184677,occlusion,1,0,chronic,Male,53,9edbf80253d3b26496d26cfd199b6e02,right proximal M1,M1,NA
+52185158,occlusion,2,3,acute,Male,49,ef51151aa1f06538e7424ffb5f56d06c,left middle cerebral artery,MCA,NA
+52186828,occlusion,3,3,chronic,Female,92,7a8096a26f6ca7f9c09f58fab857577d,left internal carotid artery,ICA,NA
+52194806,occlusion,3,5,chronic,Female,76,67ca1f2b73f404035cfe34f881698ccc,M1 segment of the left middle cerebral artery.,,2
+52196922,occlusion,4,1,chronic,Female,78,51339992518099928e4263ce7f5db3db,Right ICA terminus ,,3
+52197814,occlusion,4,3,chronic,Female,51,b0c09b7ea9a4b2ad1c6adbf24007d03b,left M1,,3
+52199509,occlusion,5,1,acute,Male,75,5cd6adb7d8d2d4ddd0da809ff9d5ad1d,distal basilar artery and  right vertebral artery,10,NA
+52202670,occlusion,3,4,chronic,Female,86,4879fa32797a7eb0105a322905e26ba8, left vertebral artery,VA,NA
+52206522,occlusion,3,4,chronic,Male,85,924bc7330124130604e616f1c7a0187b,left vertebral artery,VA,NA
+52208100,occlusion,5,4,acute,Male,51,406609577bf2728bd8a69168ecc54347, right M1,,1
+52210442,occlusion,1,0,chronic,Female,85,24680d1ad7151fbfd6d6dd73224945f7, origin of the left internal carotid artery,ICA,NA
+52211645,occlusion,3,2,chronic,Female,52,53e6e679d4794b07169d51a50621d84a, right internal carotid artery,,1
+52213109,occlusion,2,2,acute,Male,66,9de5cab973de6717fd9bc328e66799d2,left ICA terminus,,1
+52216829,occlusion,1,0,chronic,Female,58,6d060461a1c45ac75547705924a533a9, right vertebral artery,VA,NA
+52217810,occlusion,4,2,chronic,Male,87,a781e94081b7e13901ad4326dbbc30ce, right M1,,1
+52223031,occlusion,4,2,acute,Female,57,d4b2bd98b654e28f0eca2f1a2d54583b, proximal left ICA and distal M1,3,NA
+52225237,occlusion,1,2,chronic,Male,84,e0ebe5a42ae8b9617d0a67af0c52cc25, left ICA,ICA,NA
+52225941,occlusion,3,0,acute,Female,46,b6a3298667dd8e6f4d7ab65af5d26c38, M1 segment of the left MCA,,2
+52228209,occlusion,4,5,chronic,Female,98,fba90d90a4a2ca5cd817e26a293a5f0f,left internal carotid artery and left M1 segment,3,NA
+52229674,occlusion,2,0,chronic,Male,78,0622de7c1c6cffa02bb34d265d16b193,left V4 segment,V4,NA
+52232472,occlusion,1,1,chronic,Male,61,274b9f00b53e24b9972da963156745ff,origin of the left internal carotid artery.,ICA,NA
+52232869,occlusion,2,1,chronic,Female,71,402170c3f14a963f4572b10e7a0cff40,Left internal carotid artery ,ICA,NA
+52244968,occlusion,3,3,acute,Male,64,bc74b42eb4d30bace23d7b17847e0e2d, anterior most distal M2 branch,M2,NA
+52248346,occlusion,4,5,acute,Female,75,fa3b7aecc469eebac167ab1eb0c54160,Basilar artery ,,2
+52248449,occlusion,2,2,chronic,Male,74,a739486a31fd58be36697bb2f128094a, left proximal internal carotid artery,ICA,NA
+52252748,occlusion,4,2,chronic,Female,72,419bfcf6318f0194ee4907f48f8b824f, right ICA and right mid M1 and  distal right M1,,1
+52254444,occlusion,4,6,acute,Female,83,4499fd05c0b5796856a52fe5a444bd29,Left M1,,2
+52258372,occlusion,4,3,acute,Male,79,89f2c1cd7156816f2369239e68e511c0, left M1 ,M1,NA
+52259725,occlusion,1,0,acute,Male,77,9ee4543f013f0fbdfe83d9e600c5cb45, right vertebral artery ,VA,NA
+52262089,occlusion,3,3,acute,Male,72,b2b45b9f1a44b8e162932fc339c7d247, bilateral vertebral arteries,Basilar ,NA
+52262536,occlusion,3,3,chronic,Female,82,600463f6115422e51f67e7ae26d4d9e3,Left superior M2 branch ,M2,NA
+52264906,occlusion,5,6,acute,Male,89,f4c7da0a10282e5e7d489a05a41010ee,Right posterior cerebral artery,PCA,NA
+52265614,occlusion,5,6,chronic,Male,86,07b40ccb9faffdc563ae622c5534d3b4, segment of the left M2 artery,M2,NA
+52266233,occlusion,4,4,chronic,Male,59,00be87b260477dcdab9bae8b657bf148,proximal right internal carotid artery,ICA,NA
+52266418,occlusion,5,1,acute,Female,81,84e28ea2d10bdd5c63e2c4d305b0fd9c,Right M1 ,M1,NA
+52272221,occlusion,1,1,chronic,Male,85,9ea198041f66020186f55935af9cbbdb,left proximal ICA ,ICA,NA
+52272567,occlusion,4,1,acute,Female,58,42e17815067458f7d10917eacc547052, M1 left,M1,NA
+52273633,occlusion,1,1,chronic,Female,94,f59b97e9db366d25d084669110be1521, left MCA M2 portion,M2,NA
+52274920,occlusion,1,1,chronic,Male,68,24f09809c02380df02a35952faed51b1, left supraclinoid internal carotid artery.,ICA,NA
+52280353,occlusion,4,2,acute,Male,60,fba4dcf9b8a085efeb8933d818f0442e,right internal carotid artery,,5
+52285080,occlusion,1,0,acute,Female,83,ed607a77f572957a86cc43bac9eae7d5,right vertebral artery ,VA,NA
+52285754,occlusion,2,1,acute,Male,66,53d3d19774cdff9203427611cd4c221f, left M1 segment,M1,NA
+52286365,occlusion,2,3,chronic,Male,50,8f0f6911f89916ced9e05eba9fe5208b,left internal carotid artery.,ICA,NA
+52287027,occlusion,4,6,acute,Female,77,811bdf55bb25545c1ddb8fa93b6be52d,Right internal carotid artery,,NA
+52287120,occlusion,5,4,acute,Female,95,cdef1355f376389be333d8a73d4ba831, left ICA,,3
+52287744,occlusion,1,0,acute,Male,69,d657e0ca410a996fb709a24b49dd956a, right vertebral artery,VA,NA
+52287894,occlusion,5,4,chronic,Female,90,3f3843da8f2e4fdb8d79aa9306944c63, left M1,,0
+52288290,occlusion,3,0,chronic,Female,97,496e58a1828ddc35d17a9c124b81c392, right M2,M2,NA
+52288339,occlusion,3,3,chronic,Female,85,ac2ef0f96c8652ee95720bb0f5077f66, proximal M1 of the right middle cerebral artery. ,M1,NA
+52289122,occlusion,4,4,chronic,Male,65,4a9fa22d984a4996e4ed0ffd0160112d, right distal M1 segment,,0
+52295576,occlusion,3,6,chronic,Male,79,2833ab5648aed7bb4ec6e241c1a8cbe6, right ICA ,ICA,NA
+52299054,occlusion,4,3,acute,Female,69,0a1f98381c4b7ca8288e36bb278446f7,"Proximal left M2  and left common and extracranial left internal carotid artery.    
+",,2
+52299528,occlusion,4,1,chronic,Male,68,e3107044883dae8fb3a34093563fdd9a,Right M1,,1
+52300568,occlusion,1,1,chronic,Female,87,c6ef599d824c7efb6a6e3c18eb81a511, left M2,M2,NA
+52303950,occlusion,4,3,chronic,Female,75,4f42a40b72739d9ca4ff70d6decd0f6a,left vertebral artery,VA,NA
+52307744,occlusion,5,1,acute,Female,89,472dfd43743469d418ad0ac614596d18,Proximal left M1,,1
+52309279,occlusion,2,2,chronic,Male,88,b84de02c867304005bdcf22f6e230703, right ICA and  Right vertebral,7,NA
+52313146,occlusion,1,0,chronic,Female,58,43412576726741310820d7bcafcc7ef9, left ICA,ICA,NA
+52314634,occlusion,5,3,chronic,Female,74,d11f80a1a6260c2d2d27d90b2026c98a,Left proximal M1,,1
+52315275,occlusion,3,5,acute,Male,74,46c66fa4f7bac77568e5b95ed631380c, right ICA origin,ICA,NA
+52316155,occlusion,2,2,chronic,Male,48,4425a8dbc32806749292b84e2fb3410b,Right proximal M1,,2
+52318268,occlusion,4,6,chronic,Male,92,027f50295d447ff50021e02673d68acd,right M2,M2,NA
+52321001,occlusion,4,5,acute,Female,86,fb77e2bb25d40ac2274ddcf2e0f9d649, right MCA and Right M1,M1,NA
+52321307,occlusion,1,0,chronic,Female,76,2380ffe4cf93dcac5536529868971f2b, V4 segment of left vertebral artery,V4,NA
+52326979,occlusion,3,1,chronic,Female,78,e59ebb2616d188eb2e7ac4bb61320630,Right M1 ,,1
+52328821,occlusion,5,5,chronic,Female,81,1c5f7815d8415986724be5e7dc1cc484, M1 segment of the right middle cerebral artery and bilateral posterior cerebral arteries,,1
+52331440,occlusion,4,6,acute,Female,96,6abee095ef25a5939660647bad7c91a3,left M1 and left carotid bifurcation,,1
+52334302,occlusion,2,0,acute,Male,55,48027e200c890b130dd9c18afb7e089c,Right sided distal M1,,1
+52337346,occlusion,0,0,chronic,Male,72,a230231187f39cf1d198c3cf73b231d4,bilateral cervical ICAs ,ICA,NA
+52337799,occlusion,5,6,chronic,Male,92,2ec5c96ccf484cb9b749b151326f95f6, right intracranial ICA ,,1
+52338358,occlusion,5,6,chronic,Female,92,1a6228ff84a71cb9c0b7c9c4b4fdc7ff,Right M1 and A1,3,NA
+52338645,occlusion,5,4,chronic,Female,89,680e45bb0fb9e357a52787b9b894448d,Right M1 and left ICA,,2
+52340439,occlusion,3,5,chronic,Male,50,950082f2283581703d13c5a04736db6f, M2 branch of the left MCA,M2,NA
+52343094,occlusion,4,6,acute,Female,93,4b848203cddd58ca9dbfde6bdbac2fb1, distal basilar artery,Basilar ,NA
+52344356,occlusion,3,1,chronic,Female,80,5aa8ff0c72a2f184b5453d577fe95534, mid M1 of the left MCA,M1,NA
+52345293,occlusion,4,6,chronic,Male,64,cd7927acb2bad66325054e912ffb443a,proximal M2 branch of the left MCA,,4
+52353874,occlusion,2,3,chronic,Female,80,cc34ed2ec8ef4e33f51163b2c04bdb03, right M1,M1,NA
+52358323,occlusion,4,2,chronic,Male,66,a77e2df29a7da8425d60738e1342ccbc,Right PCA ,PCA,NA
+52362219,occlusion,2,0,chronic,Male,82,9ed116ac4d865fb38b2912f02774ca0a,proximal M2,M2,NA
+52360824,occlusion,4,5,chronic,Male,60,a2e458b03b9913a422519d3c12b68105, left ICA and MCA,5,NA
+52361696,occlusion,4,3,chronic,Female,81,84feab1327986b782601d2d9a804a0f3,left ICA proximally,ICA,NA
+52366131,occlusion,2,0,acute,Male,76,ac5b92554df6f324e4cb5e91718ca11f,Left proximal M2,,2
+52368701,occlusion,1,0,acute,Male,66,e2fa952ea932fc689ca930989980e5c9, mid left M1 segment,M1,NA
+52369010,occlusion,3,3,acute,Female,85,4ad196283ccb24a6a8a7f59ef12e9958,right posterior cerebral artery ,PCA,NA
+52378341,occlusion,2,1,chronic,Female,64,bd3fe6c0c6cffd3ee6bcbf92d05291bf,bilateral ICAs,ICA,NA
+52383008,occlusion,5,4,acute,Male,90,41cf619c37cc2a20f5086011be29f793, proximal right M2 segment anterior branch,,1
+52381407,occlusion,3,2,chronic,Male,73,cb1cdbd6ad5dc656d504c1a2d3fa0fe9,left internal carotid artery,ICA,NA
+52381070,occlusion,3,3,chronic,Male,86,514766c55975aae18711171718d039ca,right vertebral artery,VA,NA
+52396237,occlusion,4,6,acute,Male,82,4526749cf0f6578d70587147a2d95425, right P1 segment,P1,NA
+52398851,occlusion,5,1,chronic,Male,44,39ebee28c7404b0bbbe8cc3e8e414594,"left ICA, proximal A1 segment, and M1 segment.",,1
+52400054,occlusion,4,2,acute,Female,80,e9f0b32768e371e5b6b37e1307cea568,left M1,M1,NA
+52400494,occlusion,1,0,acute,Male,62,1912c188a0f82ae957b2d8827a8b15b6,right proximal M1 segment.,M1,NA
+52400658,occlusion,2,0,chronic,Male,79,c4149f71e58bd2f6360ffea22ce29eee,right proximal cervical internal carotid artery,ICA,NA
+52401128,occlusion,2,2,chronic,Female,57,5d7e083fe2f64389366c5043f70c8696,Right P2,P2,NA
+52403138,occlusion,4,2,chronic,Female,65,830b33c4f22e2a852e10a93eb7d2b9ed,left ICA terminus and proximal M1.,3,NA
+52404194,occlusion,4,1,chronic,Female,66,58996f872225d86fd9d38044f8de62e2,Right distal M1 ,,1
+52406665,occlusion,2,0,chronic,Male,86,f621e6e7e1e594ffa84b55b9855d87c5, mid basilar artery,Basilar ,NA
+52408473,occlusion,2,2,chronic,Male,88,aa3230b0b964294bd0071839e149a374,Distal left M2 and Left ICA,4,NA
+52411424,occlusion,2,1,chronic,Male,82,196ee519c91a72ecc6a591002a60ee93, right jugular bulb,ICA,NA
+52418356,occlusion,4,1,chronic,Male,55,c56722cf671cc221dc8fe09b6ba71b25, right ICA,,1
+52422296,occlusion,4,2,chronic,Male,48,b795eaf2bb2d0aaa6acec6ba6195f2c2, left common carotid stent,CCA,NA
+52431709,occlusion,5,4,acute,Male,87,eaa42173b7afb7315fe9cb4b26bd540d,proximal right M2,,1
+52432085,occlusion,1,0,chronic,Male,57,6e4a46d756e35be6cf9344b8aeec2cec, left proximal cervical ICA,ICA,NA
+52434968,occlusion,5,3,chronic,Female,64,253d7a3a18acc082fca7617558705fb7,Left MCA M1 ,M1,NA
+52442934,occlusion,3,1,chronic,Male,65,c4a2aad1df4218d8056d7de12e3643f0, left ICA origin,ICA,NA
+52448347,occlusion,1,0,chronic,Male,79,44c92c18271a7800107d09e13d5039cb, right internal carotid artery,ICA,NA
+52452689,occlusion,4,1,chronic,Male,62,99528c131a591894bea51e56bbbb5385, origin of the right ICA,,1
+52453801,occlusion,5,5,acute,Female,62,85beebd514752b064b0b6457481a8de8,left M1 segment,M1,NA
+52457602,occlusion,5,4,chronic,Male,86,effc803b2a7741402d3d9f0afa636281,basilar artery and distal left vertebral artery at the V3-V4 junction. ,10,NA
+52457825,occlusion,1,2,chronic,Male,71,9d90bad156b7005fbb76a8371aae5f61, right internal carotid artery,ICA,NA
+52458920,occlusion,4,0,chronic,Male,47,01989a52761827085a16d9be64d7b254,right intracranial ICA,,1
+52459750,occlusion,4,1,chronic,Female,52,0a7bd9444a276cf175dcd334e3a94e12,Left ICA ,,1
+52462601,occlusion,3,0,chronic,Female,47,e4ed64e39a576c5990007de1955b95ac,right internal carotid artery,ICA,NA
+52463823,occlusion,1,0,chronic,Male,58,7ef47d32c74c0e34610659de969e54ec,Left M1,M1,NA
+52464291,occlusion,3,3,chronic,Male,78,10ffcd7a98cb450d76a99458eb5c80bd,origin of the right internal carotid artery.,ICA,NA
+52466462,occlusion,5,4,acute,Male,79,f4db40d2b6e8e734d08cba27d4c4c96d,right MCA (M1 segment),M1,NA
+52467297,occlusion,5,5,chronic,Male,75,9b7d9451915e8f0397faf9abfcb730f1, left ICA terminus and proximal left M1 segment,,1
+52470475,occlusion,4,3,chronic,Male,73,90933b3649da4068635a283378b6eafd,M1 segment of the left middle cerebral artery,,1
+52471363,occlusion,2,5,chronic,Female,86,092add261d14f3171796292099ad007a,Right posterior M3 branch,M3,NA
+52473216,occlusion,4,3,chronic,Male,60,78dcaf86e77b7af7488e700761596042, right M2 segment of the middle cerebral artery,,1
+52473986,occlusion,4,6,chronic,Female,69,2d327fbb874259cd3c45e8f9a0d54b8f, M1 segment of the right MCA,,1
+52477013,occlusion,3,3,chronic,Male,92,149d261b0a2074e585ad0ac95e50de0c, left ICA,ICA,NA
+52479548,occlusion,5,6,chronic,Female,62,da4ea81e8fc20aa34d81e46c5acd8b04,right carotid artery,CA,NA
+52484790,occlusion,3,1,chronic,Male,89,5c290ea8ba1364e7a03fb04b379f3c4c,right M1 and proximal M2 segments,1,NA
+52511149,occlusion,3,4,chronic,Male,75,75fb981e1a88c88765cf90a943e1463d,proximal left internal carotid artery,ICA,NA
+52514942,occlusion,4,3,acute,Male,56,3f429eacb2251739368788a8998c3c36,Right distal M1/proximal M2 middle cerebral artery ,,2
+52524965,occlusion,5,6,chronic,Female,90,343357ba31873f91ff5f1e6e4c650b9a,right common carotid and cervical internal carotid arteries,,1
+52529428,occlusion,4,6,chronic,Female,100,0ec4fe889cf9f131d5685856a01b2f8a,right common carotid artery,CCA,NA
+52529902,occlusion,2,0,chronic,Male,66,0ae77b242f052a27e727a62ff48ac3a1,left internal carotid artery.,ICA,NA
+52530294,occlusion,5,3,chronic,Female,61,5650067e562a326e89fb7344adbc8f49,Left internal carotid artery and left M1 ,,1
+52531219,occlusion,2,0,chronic,Male,72,1034757de638a48504ac13bd733d7709,Left internal carotid artery origin,ICA,NA
+52531950,occlusion,3,3,chronic,Female,72,35d449ac773a4ac84cae339843c68edd,ICA bilaterally,ICA,NA
+52538800,occlusion,4,5,chronic,Male,81,f78c0dcfd2b0323d641b7a59dd932e2a,proximal right M1 artery,,1
+52539899,occlusion,1,0,chronic,Female,56,3ccd95c7122e886349d7e284948b3afe,left vertebral artery from the origin to approximately C2.,VA,NA
+52540970,occlusion,1,0,chronic,Male,25,8ea145f67eb5e6bb92bac4f013265457,left M1 segment,M1,NA
+52546179,occlusion,5,5,acute,Female,96,b5fc31f9150b743afcd90c99f01efaa0,Left M2,M2,NA
+52547956,occlusion,5,4,chronic,Female,85,acf7ad3cd3ae5b811aa3d9c1648078c3,distal M3 ,M3,NA
+52550022,occlusion,5,6,acute,Female,88,6e228fdd8aa24a0ed558f737830ce7a1, left M1 branch of the middle cerebral artery proximally.,,2
+52556279,occlusion,2,2,chronic,Male,93,62704526d87fa36abbaba6d4ba09f4ec, left posterior communicating artery,PCA,NA
+52558572,occlusion,4,4,chronic,Male,82,542780d690b8a98b07198d5b8e0366ea,Proximal right M1,,1
+52570844,occlusion,2,2,chronic,Female,50,71594e3ee273cc3ae6f8fa736de1a3e8,distal right M1 segment,,1
+52572816,occlusion,4,2,chronic,Male,31,07dc90814dd1b4d902879ef193596a70, M1 segment of right MCA ,,NA
+52573897,occlusion,4,4,chronic,Male,53,5145962ddc13c1b11fad37203779ed73, left M2,,2
+52579403,occlusion,4,4,chronic,Female,77,ca3b679d0d046bebfdafbb15df1b909a,Distal left M2,M2,NA
+52579803,occlusion,5,6,acute,Male,55,74ea5098fb2b2e77df9ddcca48a558c3,left ICA at its origin and  left MCA,5,NA
+52580158,occlusion,4,2,chronic,Male,60,7d002f6769aa5b880de4be3f22d9d6eb,Left M1 extending into the M2 cerebral artery,,1
+52582223,occlusion,1,0,chronic,Female,66,957116baa85ecbe4abd515b480d3bf53, left vertebral artery ,VA,NA
+52585952,occlusion,5,5,acute,Female,56,d95fdca265c0fab055db235933e0b5db, left M1 segment,M1,NA
+52589080,occlusion,2,0,chronic,Male,81,49b224e4dd4c6a3605878bbe553f15cd,right ICA,ICA,NA
+52591178,occlusion,4,0,acute,Male,63,5af11eb1b68cf78fa2786d5e037c115b,Right M1,,1
+52592480,occlusion,1,1,acute,Male,59,cbaa6e046ff0e38e83ba672f57200734, M1 segment of right MCA,M1,NA
+52595433,occlusion,3,3,chronic,Male,53,3caa9f7b6c99f154e5e2f9ff848513cb,Left distal M1,,2
+52602973,occlusion,4,4,chronic,Male,69,2b44a652b733d81681d6c93c30bc9d8b,V3 segment of the left vertebral artery,VA,NA
+52606238,occlusion,1,0,chronic,Male,77,f6f59991fc7adead68c11058f9b54745, proximal left M1 segment and left M2 segments,1,NA
+52609336,occlusion,2,0,chronic,Male,64,cd293cfbb61cb1ed04d40a4a7d26c518,Right M2,M2,NA
+52614705,occlusion,3,2,chronic,Male,75,01ad5ab12c241a280e998ebd658d447f, origin of the left ICA,ICA,NA
+52615252,occlusion,5,6,chronic,Female,86,83087500a2c01ac4d9b7bc5ebe589fba,right ICA origin,,2
+52617151,occlusion,0,2,chronic,Female,54,028a8062972209663cf74c5791da7a66,right ICA,ICA,NA
+52617623,occlusion,2,1,chronic,Female,62,5ffaf7b08c79e66989306f788dd0df8c,Left M1,,1
+52618014,occlusion,4,3,acute,Male,86,9c9bb6ada5063ace480848e1258e2104,Right MCA,,11.18: 1; 11:18: 2-->multiple
+52622189,occlusion,5,6,acute,Female,90,0c19c1a5b3b39ec89853614aa2f4361f, left M2 branch,M2,NA
+52627324,occlusion,5,4,acute,Female,57,101f80981f93ae8f4533b6c409cca766,right carotid terminus,,5
+52627442,occlusion,4,6,chronic,Female,80,9dbe15646b7f44761f94b6cfbe862b08,V3 segment of the right vertebral artery,VA,NA
+52627466,occlusion,1,0,chronic,Male,81,ecb91fe34f33688690c21d8b54b9289e,right vertebral artery,VA,NA
+52628661,occlusion,5,2,acute,Female,78,c4f35f05cec18bbf8f77ddaf2c6e73ae, M2 branch of the right middle cerebral artery,M2,NA
+52631969,occlusion,3,2,acute,Male,60,d87d8bdf095b4e29cc8a9668ff72589c, left internal carotid artery ,ICA,NA
+52636703,occlusion,5,6,chronic,Female,93,ea52f9f454e37d7314e121aa05e68a1a,Proximal left M1 ,,1
+52638871,occlusion,2,1,chronic,Male,56,f83ef6bcc771b140167394cf933ddfd3,right ICA at its origin,ICA,NA
+52638963,occlusion,4,2,chronic,Female,81,cc6e4ac8a2de323295ceb07306df5212,Right M1,,1
+52639171,occlusion,4,3,chronic,Female,47,a8bb4f29cc209ac96226e8c0ee6d0201,right internal carotid artery at its origin and  right M1 segment at its origin,,1
+52639402,occlusion,4,6,chronic,Male,79,1506517dbf89ddacdcee74ee378270ad,Right proximal M1 ,M1,NA
+52641408,occlusion,2,1,acute,Female,74,7e5a1a61e70c79390610fb311f260d7a,origin of the left internal carotid artery,ICA,NA
+52641627,occlusion,1,0,chronic,Male,54,646607c6e5f260b15108afd060858bac,right ICA.,,1
+52645755,occlusion,2,4,acute,Male,97,a29319594523f4dd506b7877d39f5fd1, left M3 ,M3,NA
+52646226,occlusion,3,4,chronic,Male,58,05e06f1c16e1bc6889603a8d7c352e80, right M2 segment and proximal M1,,1
+52650505,occlusion,4,4,acute,Male,76,e643d3814a6ede88c82f29c42acbf747,right M1,,1
+52653889,occlusion,5,4,acute,Female,54,2d77d4ce0605bb31eab850d39edb639c, M1 segment on the left,,1
+52658422,occlusion,2,0,chronic,Female,90,f69eec05afeee71c07bdad4ac39040da, right P2 segment,P2,NA
+52659026,occlusion,1,2,chronic,Male,71,ed6ae4170ee3db0c1ee8f28edac49b0b,proximal right ICA,ICA,NA
+52659139,occlusion,4,4,chronic,Male,80,385ce2ce14fa1ff78b7f9e884fbf6b7f, left M1/M2,,1
+52659259,occlusion,3,3,chronic,Male,73,a1821772e698ec0c3c9b9f07f1a2bf0c,left internal carotid artery at the bifurcation,,NA
+52672435,occlusion,5,6,chronic,Female,84,f206dfb92942d07918e10f0b20268b52, parietal M2 branch of right MCA,,2
+52680737,occlusion,1,0,chronic,Female,75,40777f7431b9fe182a1722f969f395c4,origin of the right and left internal carotid arteries.,ICA,NA
+52693505,occlusion,3,3,chronic,Male,87,99e13346cf26739cd8cce39df4fb5252, Distal left M1,,2
+52696014,occlusion,4,4,acute,Male,76,490c0f9f8aeb82f52ebfd7851a1a2cda, right M1 segment of the middle cerebral artery,,1
+52698216,occlusion,4,3,acute,Male,78,684a26cae7ca38f344a93a4a007996fd, top of the basilar,,3
+52699961,occlusion,4,3,chronic,Female,79,0cf0bda717c0c514cb61bdec699012ed,Distal left M1 and  left common carotid and  right ICA,10,NA
+52702431,occlusion,4,3,acute,Male,63,8d831b0387389755d40904d38ca877d3, right M1,,1
+52702590,occlusion,1,0,chronic,Female,83,15416e949861a9f7573985ee98e4ca64,Bilateral proximal internal carotid artery,ICA,NA
+52703040,occlusion,3,3,chronic,Female,73,dfb50a74a80ee2918f3037f05f5fd01d, right vertebral V2 segment,V2,NA
+52705084,occlusion,5,4,acute,Female,84,eb503c8cbed2411c9b69df3fd7610ff8,distal superior M2 branch of the left MCA,M2,NA
+52705728,occlusion,5,3,chronic,Male,65,7144f06520a20a1f3bbea47b7e458421,M1 segment of the right MCA ,,1
+52709211,occlusion,5,3,chronic,Female,80,23f2f7687c0640cb34febc528ef3b5cb, left M1 segment middle cerebral artery,,1
+52710496,occlusion,5,6,chronic,Female,95,7ec8dfa7df6d24d1841923ba070bb7fc,right ICA distal ,,1
+52716511,occlusion,4,3,acute,Male,64,d976ec7ee85f89cf0cc42b41db4d319a,right internal carotid artery and the M1 segment of the right middle cerebral artery,,2
+52717722,occlusion,2,1,chronic,Male,47,ae591f29b728cf0fef41cdcdcfd8a9ea,Right intracranial internal carotid artery and right M1 ,,2
+52717831,occlusion,4,6,chronic,Male,71,d4f117d42dbd38b39c3ad6734bb855ef,left cervical and intracranial portions of the ICA as well as the M1 segment of the left MCA.,,4
+52724462,occlusion,5,2,chronic,Female,76,41281dddd309b72de4e72786b92ed5a0," left common carotid, left internal carotid, and M1 segment of left middle cerebral arteries.",,2
+52724529,occlusion,4,3,acute,Female,57,bc834f86ea536d21ee5735fbc9d9d15c,right ICA,,1
+52725422,occlusion,1,0,chronic,Male,58,413f913d0cd483ae563350f97ea5af51, right vertebral artery at the C2 and C3 levels ,VA,NA
+52729674,occlusion,4,6,chronic,Female,90,5d1c2887ce23a2139a70ba771e69f045,right superior branch of M2 and proximal right ICA,4,NA
+52729978,occlusion,5,6,chronic,Female,83,0f2d705d26fbf964a5bd12d635d2351a, M2 segment of the left MCA  and A2 segment of the left ACA,5,NA
+52732099,occlusion,4,2,acute,Female,51,1191a7c41dc8be04a5a1203f5f40ad6a,Right M1 ,,1
+52733892,occlusion,4,5,chronic,Female,60,f9436243aaa1c090b1668d6ab696e171, M1 segment of the left middle cerebral artery,,1
+52735623,occlusion,4,1,acute,Female,61,9d3feab1447bf813966e2e1dffecb62f, right proximal M1 segment,,1
+52738211,occlusion,5,6,chronic,Male,65,9373d85326ebd96ca89e8aa175037303,Left M1 ,,2
+52742385,occlusion,5,6,acute,Male,61,da03d79f914665673f935b0d24befd0e, M1 segment of the left MCA.,,1
+52743785,occlusion,4,3,chronic,Male,63,a82057cf0ff825a780a7730f0ef12860, Left ICA terminus and left M1,,1
+52750158,occlusion,5,6,chronic,Female,87,25874966c4a5613b746587ac70654d16, left middle cerebral artery,,3
+52751404,occlusion,5,6,acute,Male,89,24b24b080f566bf85e6778089f2424fd, left M2,,1
+52758581,occlusion,5,4,chronic,Female,78,85d123f11566881963fc1748d9a6c9eb,Left M1,M1,NA
+52763234,occlusion,5,3,acute,Female,90,5a6ac4a96196208c51373b7acb6181b6, right M1   and  left cervical ICA(chronic),,1
+52765628,occlusion,4,2,acute,Male,81,413f6ca158d196c812af7178535f1d95,Left proximal M1,,1
+52768196,occlusion,2,1,chronic,Female,71,63d0f84873c0660ff75f69c05522109c,left internal carotid artery at its origin  and P2 segment of left PCA,7,NA
+52769346,occlusion,4,3,chronic,Female,62,5ff318bbd9c655e5d98529638b5b919a,distal right M1 versus proximal M2 branch,,1
+52770736,occlusion,4,3,chronic,Female,78,bf8233787675f36b39ccf99da7913987,Right M1,,3
+52771626,occlusion,3,1,chronic,Male,80,3fe2e91e504b6f0e1ae29a5a25dae2e5,right proximal ICA,ICA,NA
+52777010,occlusion,4,2,chronic,Male,56,f4976230eb90b5b590f8cb8f8e7191b4,left internal carotid artery at its petrous segment.,ICA,NA
+52777909,occlusion,5,5,acute,Female,76,098bc53057a6e5dafe5a407adf276972,left M1 segment MCA ,M1,NA
+52780237,occlusion,3,1,chronic,Female,80,29545e36caf8d5df09eb230eb01080ab,Left M1,,2
+52784101,occlusion,4,4,chronic,Male,78,356c66f6aa3a85628a8e433c76f2d4fb, right distal M1/proximal M2 segment,,1
+52787803,occlusion,0,0,chronic,Male,79,1d59c31ab49d3e9d77418aa85b71acf0,left vertebral artery from its origin,VA,NA
+52789823,occlusion,2,0,chronic,Female,76,46101308f030e56df7257e0d68c31992,origin bilateral ICAs.,ICA,NA
+52790312,occlusion,1,0,chronic,Male,47,102504fd4ab0b2dcb1b68e166b40a07f,right internal carotid artery origin.,ICA,NA
+52795574,occlusion,2,6,chronic,Female,93,482069f33cd2c0202d0bd209b7b0d222,Right internal carotid artery,ICA,NA
+52795649,occlusion,3,0,acute,Female,70,e805282da03685da9e2f09bb1d751c12,M2 segment of the right middle cerebral artery.,,1
+52798278,occlusion,3,0,chronic,Male,63,77dc609d0bc69b4af6add519230ac0d1, proximal M1 segment of the right middle cerebral artery ,,3
+52800355,occlusion,3,1,chronic,Male,68,3615dadc26c7a18384f3f00950e6a4e5, posterior MCA branch,MCA,NA
+52801506,occlusion,1,1,chronic,Male,54,7ccd9518a14d2682e6121e0949ca20b2,Right ICA ,ICA,NA
+52802995,occlusion,4,6,chronic,Male,88,c51308f7cc72783b2c0f1d849cf91a0e,right internal carotid artery,,1
+52803705,occlusion,1,2,chronic,Male,79,e4bf87477ea31b3183b171e1f69c0704, left internal carotid artery at the origin to the distal ICA,ICA,NA
+52804341,occlusion,4,1,acute,Male,81,d8ccbce2029e90e3e71a2455f8f17edb,Right M1 of the MCA.,M1,NA
+52806312,occlusion,2,4,chronic,Female,94,e61366c3ba770b4d807875686db090b2,left ICA origin and right vertebral artery at the mid cervical spine,7,NA
+52806721,occlusion,4,2,chronic,Female,43,587f6f097946c8b736fbb6997c8e0891, Right M1,,1
+52811678,occlusion,4,3,acute,Female,81,c813ba63290b311ef4432ef3b5dc97bc, distal left M1,M1,NA
+52817031,occlusion,5,6,chronic,Female,96,4df260b6a27a30296c88d27954cd4b43, left ICA and MCA ,5,NA
+52818526,occlusion,3,4,chronic,Female,61,c7b4edafb9f298b0bf529a63c0db46de, proximal left internal carotid artery,ICA,NA
+52818751,occlusion,4,1,acute,Female,49,00f91610bdd6387b0520cc3f7b08b92e,Right M2,,1
+52819006,occlusion,5,6,acute,Male,82,f8ed85dde9c74c2c4b2eb343adc1378a, right M1,,1
+52820166,occlusion,4,3,acute,Female,90,40cd5b5c9f2b3baf8f28bc04c65a762e,right M2 branch vessel ,M2,NA
+52823591,occlusion,1,0,chronic,Male,68,5346182aa83dd5394b2109e3a072e663, left ICA ,ICA,NA
+52824599,occlusion,3,5,chronic,Male,84,c36225affba5afe6d9027d57f86400a5, basilar artery ,Basilar ,NA
+52826875,occlusion,4,3,chronic,Male,78,f6e911d1051c1bdd8f33e8c1b74a5adc,Right M2 ,,1
+52827819,occlusion,5,4,acute,Female,71,85360f110ea1ba937e782dfaacda56b0,distal branch of the right M2,,2
+52833428,occlusion,4,2,acute,Female,64,ece0998592a21a38babdf120408bb532,left MCA territory with left M1 ,M1,NA
+52834719,occlusion,4,3,chronic,Male,81,6e6d0e184662ea672229bb733d358209,left intracranial carotid and MCA branches,5,NA
+52834754,occlusion,3,6,acute,Male,72,09f953122b6b2cec564715f061ba7b9c,Left MCA,,2
+52847642,occlusion,3,3,chronic,Male,64,b53efe297a98cb4ead64f634eeeb38ed," bilateral M1, right superior cerebellar, left posterior cerebral, and an atretic left A1 segment",10,NA
+52847803,occlusion,4,3,acute,Female,74,05c50c81f0163d1c32ef379116a3910a,right M1 vessel,M1,NA
+52852093,occlusion,4,0,chronic,Female,75,e782e87e8263203e56fceba0aef236d1,basilar artery and right posterior cerebral artery,,1
+52854652,occlusion,5,6,chronic,Female,91,5ca4a886177c442860e533b45b661ad5, Left M1,,1
+52854689,occlusion,5,2,chronic,Male,63,780d3cd2c58269c2e644a9735a0b7bac, left M1 and M2 branches and left internal carotid artery,,1
+52857298,occlusion,4,6,chronic,Male,84,3f414877da1ddbd08d60f3477c29c227,Left M2 ,,2
+52865689,occlusion,4,1,chronic,Male,79,dbf21487f6fb4ceebd13f65d1ea12e79,Right M1 segment middle cerebral artery,,1
+52868712,occlusion,3,1,chronic,Male,67,6b95c68a5fe6c07501ab038b4e4c1149, left ICA ,ICA,NA
+52870256,occlusion,4,3,acute,Male,83,56f745ea6569e56333ad1affa9d86d83,proximal right M2 segment,M2,NA
+52875095,occlusion,4,3,chronic,Female,79,317c958c9fa32104fafd48e551f772db,distal right M1 segment,,1
+52882386,occlusion,1,0,chronic,Female,65,41051790a3549374354d6052cc8269dc, origin of the right internal carotid artery,ICA,NA
+52886150,occlusion,2,4,chronic,Male,88,d10e16a17c8043450101869da059f390,Proximal right M2 short segment,,4
+52887477,occlusion,4,1,chronic,Female,55,176a948480f1ae1f224f3e4c2fee9da1, M1 branch of the right MCA,,2
+52889710,occlusion,5,6,chronic,Male,73,d67b54527511788e31c551d71ab53aa0,Left distal M1,,1
+52894303,occlusion,5,4,chronic,Female,91,b61e2f7f05fe484412c219a430e1d336,Distal left M1,,2
+52894633,occlusion,3,2,acute,Male,53,0e9c540717df1fd64051227a78a1f052,Proximal right M2,M2,NA
+52895725,occlusion,3,4,chronic,Male,87,e500bfbbc1c8711f00ecfe1ac6f960d8,left proximal internal carotid artery,,1
+52896081,occlusion,3,1,acute,Female,73,07564a31b24431101a6bfaa990cab0ca,distal right M1 segment,M1,NA
+52897769,occlusion,5,5,chronic,Female,89,2feaba8ad87abbca903817aeba3832b1, left M2 superior division.,,1
+52903203,occlusion,2,1,acute,Female,78,200f79f4b0380ffe843ccb022fa1035f,left M1,,1
+52906987,occlusion,4,4,chronic,Female,70,59c7de70b96591ec432ac838a8b74b03,Left M1 and Left carotid ,3,NA
+52908448,occlusion,2,2,chronic,Female,86,53d5ad8108974d4263f7df4adb8f7398, left P3 segment of the posterior cerebral artery,10,NA
+52909988,occlusion,4,4,chronic,Female,80,0342a607aab3232d0ddba7b1065eec89,right internal carotid artery,,1
+52910444,occlusion,5,1,acute,Female,57,0ec7461ef42c40d211765913dc8d66ac,left internal carotid artery and the left V4 segment.,7,NA
+52920762,occlusion,4,6,chronic,Male,87,1b87b125979026fafa35e90b139f0c3e,proxima left M2 inferior branch,,2
+52923242,occlusion,1,2,chronic,Female,91,ea2e212b5070318ea66b7859d0a3b2a0, right vertebral artery ,VA,NA
+52923626,occlusion,1,1,chronic,Male,75,b5d4adb11ab13f262c3559d883b2878e,origin of right internal carotid artery,ICA,NA
+52927923,occlusion,5,4,chronic,Male,82,9680845f81183e851f899bac6636c80b,left carotid bifurcation,ICA,NA
+52926887,occlusion,1,1,chronic,Female,90,e592b2a14f1ca9e3c87172c91a50371b,proximal left internal carotid artery.,ICA,NA
+52928559,occlusion,4,0,acute,Female,91,3bfc94165264fcf52bd931f4d8ee6644,left M1,,1
+52932536,occlusion,4,3,chronic,Female,66,bb4736c8a8d8c5606462a9fc6c787909, left M1  and right M1,,1
+52934225,occlusion,5,6,chronic,Male,56,1f613749895843222f261638bca1d6f8,Bilateral common carotid artery ,CCA,NA
+52936447,occlusion,2,0,chronic,Male,57,0378e6d670920f5c7ad59fb4f2dd77af,distal M1 / proximal M2 branch segment of the right MCA ,1,NA
+52937748,occlusion,1,1,acute,Male,80,7b6b28c2d4ae985852717b7e00fa21e8,right vertebral artery V2-V3 segments,VA,NA
+52937790,occlusion,1,2,chronic,Female,85,71dd38ef87c5b84ec75571b815b7922b,Basilar tip,,3
+52938154,occlusion,3,3,chronic,Female,90,d0b85a00404b28a9c620976982a2ca49,Left P2,P2,NA
+52944464,occlusion,1,0,chronic,Female,79,05f4b44e78ad1f44d1be32cfcaa90ec5,right carotid bifurcation,ICA,NA
+52945504,occlusion,2,2,chronic,Male,66,9ae3e3034e2833a963d77887c136638f,Proximal left vertebral artery ,VA,NA
+52951103,occlusion,4,1,chronic,Male,60,7cbb697fee57a09fc9f06361a62258e4,Left M2,,1
+52951310,occlusion,5,3,chronic,Female,88,0d251f44c069e761c52ab4fb6230968f,left ICA ,,2
+52951737,occlusion,3,5,chronic,Female,88,74d20b281483f06b8a57fb46d5b2832c,Right M1,M1,NA
+52956597,occlusion,3,1,chronic,Female,79,de8296ae4c732313e6927641c6f2613f, P2 segment of the left posterior cerebral artery,P2,NA
+52956608,occlusion,5,5,chronic,Male,91,bf96226d715cd7594c0ae4c0ccc47c29, Right M1 ,,1
+52962048,occlusion,5,3,chronic,Male,90,55889c624b1e04746e14b29cc141a340,M1 segment of the left MCA,,1
+52962329,occlusion,1,0,chronic,Male,84,d291ba3b9ebeda34f8d0e87726d7d4b8," V1, V2, V3, and distal aspect of the V4 segments of the right vertebral artery",9,NA
+52966487,occlusion,2,0,chronic,Male,57,bcea9528bc76d8d4b4f9375940436887,"Left M2 and bilateral internal carotid arteries at their origins.
+",ICA,NA
+52968442,occlusion,5,3,acute,Male,88,97f2425e13b904b6e2224102f13b131d,Left M1 ,,1
+52969600,occlusion,5,5,chronic,Female,93,02775e51282a5547a21b71eeeedf2935,Left M1,M1,NA
+52972618,occlusion,4,3,chronic,Female,60,ecfee154481f1772079d4dca235f07f8,origin of the left vertebral artery.,VA,NA
+52978569,occlusion,1,0,chronic,Female,71,9178dcc597022847cc3f8ccb237b7819,Bilateral vertebral artery,VA,NA
+52978829,occlusion,4,6,acute,Male,52,0363accc6cd12884a07d5208bf1dacb7,Basilar and bilateral V4,V4,NA
+52979908,occlusion,1,0,chronic,Male,62,50fc59601ab09d6e4c2c21dd7aa53f83, left P1 cerebral artery,P1,NA
+52980137,occlusion,5,6,chronic,Female,66,de7fe4192cf5d78f12c8ec6b82707436,Left M1 ,,3
+52982520,occlusion,3,2,chronic,Male,68,f8d6c0b8da40507da20a6b03a9756b63, proximal M2 segment of the left middle cerebral artery.,,1
+52984472,occlusion,2,2,chronic,Male,60,b0a54b4484e7fcda892c6c226f19c247,left ICA bulb,ICA,NA
+52989009,occlusion,5,5,chronic,Female,86,dfcf792ffa79e3eafb02ecfdd927428b,Left M1,,1
+52991347,occlusion,5,3,chronic,Male,74,f79c11e24eafd991dbef91116463db7d,Left ICA terminus and left M1,,3
+52996220,occlusion,3,2,chronic,Female,84,08d7a1ebe7cac44eae7b41370ba6b1ce,Distal left M2/M3 branch ,10,NA
+52996330,occlusion,5,4,chronic,Female,95,4e024ea5437afd5b3486bb98f0c5281e, proximal left M1 segment,,2
+52996711,occlusion,4,3,chronic,Male,82,31cc1edea6c3b440b1e95f0a8090eed8, distal left vertebral artery,VA,NA
+52998076,occlusion,3,6,chronic,Female,88,95a2eaa48a0ad02c25d66291492bff19,Proximal M2 segment branch ,,1
+53000266,occlusion,5,6,chronic,Male,94,c027ddc2648fba400bd764d888a46f6f,distal M1 segment of the right middle cerebral artery,,2
+53001820,occlusion,4,2,chronic,Male,65,627ad390b054bb6488bb0b0639cffd34, right internal carotid artery,ICA,NA
+53001897,occlusion,5,6,chronic,Male,75,1c59e97a358f7d019a23fbed1f6bced0,right vertebral artery,,1
+53003092,occlusion,3,1,chronic,Male,47,dbb589e82ee478aba411bd054eea5bef, left ICA and distal left MCA,,2
+53003674,occlusion,1,3,chronic,Male,69,e7923168a08d6c405105b2525455fbaf,Right PCA,PCA,NA
+53004588,occlusion,4,4,chronic,Female,75,330862284cafae56afca8ba620f45ef3,Right proximal M2,,1
+53006852,occlusion,1,1,chronic,Male,80,13d4b34772d4c518563cdf2dd65ccc22, cavernous segment of the left internal carotid artery,ICA,NA
+53009590,occlusion,3,1,chronic,Female,76,2a437d076361c5b0def85f289ae9b0c4, right M1 segment,,1
+53012794,occlusion,2,4,acute,Male,55,4829942dfcd0ceb65c6be299e79ce384, left PCA,PCA,NA
+53015151,occlusion,2,3,chronic,Male,62,28914e437eb852528604ffb12abbe669," left common carotid artery, and left cavernous carotid artery  and  left proximal M2 branch.
+",10,NA
+53015206,occlusion,4,0,acute,Female,60,079f3006dc9d74fe6730a5445b175b53,Right M1 ,,1
+53016412,occlusion,1,0,chronic,Male,56,a8dc309c7deb265a0c0e70aa1fe232f5,origin of the right internal carotid artery,ICA,NA
+53017236,occlusion,3,2,chronic,Male,59,d89c9dd20f8eb82e631543ee4a254bc9,Left M1  and  partial occlusive thrombus in the left ICA terminus,3,NA
+53030757,occlusion,4,2,chronic,Male,81,1fea5d353cb988954c282c8e80a3634b, right M2 segment of the middle cerebral artery and distal left M1/proximal left M2 segment  and  right A1 branch of the anterior cerebral artery,10,NA
+53031117,occlusion,5,6,chronic,Female,63,dfb29c2e817d7b94f16111db93beb09e,Right M1 and left M2,,3
+53031236,occlusion,4,3,chronic,Male,59,a8aafbb8a64060ac9fc502b3f029bda2, ICA at the carotid bifurcation,ICA,NA
+53032027,occlusion,2,2,chronic,Female,60,3cf262cbd7704bc2565860d14fbc56d9,left M1,M1,NA
+53032383,occlusion,4,4,chronic,Male,81,88485ffccd1a70351ba1831ec758d5a5, left internal carotid and left MCA ,,2
+53034372,occlusion,1,0,chronic,Male,82,a52a1814a9bab0364163a91b18575196, left vertebral artery,VA,NA
+53047004,occlusion,2,1,chronic,Female,89,122365a0aa52402ab650b4a054df6824,Proximal right M2,M2,NA
+53047074,occlusion,3,4,chronic,Male,84,e6475d9a2dc54b969e918c9feac89968,distal basilar artery,Basilar ,NA
+53056161,occlusion,2,3,chronic,Male,45,37e774b038ea037a5cacd441e176c387, left common carotid artery,CCA,NA
+53056233,occlusion,1,4,chronic,Male,66,9f8f4c753d3ebac3fb4ed7dc5b5a932a, the origin of left internal carotid artery,ICA,NA
+53058883,occlusion,4,6,acute,Female,83,dab7fc991d0ab184628c6d1119625f31, distal right M1 segment,,1
+53060620,occlusion,4,1,chronic,Female,53,9532d6c20f986f92f7d3161a7beef74c,left carotid terminus and M1,,1
+53062005,occlusion,5,6,acute,Male,68,21f51b38f84a9bcefd35317bcdb46e29,right proximal ICA,ICA,NA
+53063368,occlusion,5,4,chronic,Male,77,04a00722d66bb49132102b92da2fe8a0,Left M1,M1,NA
+53065243,occlusion,2,4,chronic,Female,72,664362b32091444f05dbccc8a639742d,Left proximal M2,,1
+53066007,occlusion,1,0,chronic,Female,93,0a52193285bc6c3ad43f20aabea30971,Left proximal internal carotid artery,ICA,NA
+53063655,occlusion,3,2,acute,Female,70,339c1d5703a64b8651edb826b99b8402,left carotid bulb,ICA,NA
+53066393,occlusion,1,1,chronic,Female,72,9cae771386549d2052a53611b94756ee,Left distal M2 ,M2,NA
+53066546,occlusion,4,0,chronic,Female,87,3be02a4871d6e43da9836150cff46b3c,right P1 segment and  left ICA ,10,NA
+53068376,occlusion,4,4,chronic,Male,69,a49eb8b9411eb511d54c248f81374682,left M1,,1
+53073892,occlusion,1,3,chronic,Female,58,bf68d39321819dc22653dbe76766312a,bilateral internal carotid artery ,ICA,NA
+53074275,occlusion,1,0,chronic,Female,62,1d95f8f3e11653fc8d14a1de74f76be9,bilateral proximal ICAs,ICA,NA
+53086092,occlusion,5,4,chronic,Female,51,4e13c02bab5361c4b97052e21936cce6, Left M1,,3
+53087146,occlusion,2,2,chronic,Female,78,822f96b43223fdc411d039743d35af68,origin right vertebral artery,VA,NA
+53091534,occlusion,4,5,chronic,Female,61,ae3402d52ad889cb75ffa74b6c77f725,anterior left M2 branch,,3
+53095002,occlusion,5,6,chronic,Male,75,3e6ab12c9c34ab4b2600f7eddb5b6525,Left ICA terminus and M1 ,,NA
+53098810,occlusion,4,2,chronic,Male,78,d233f3dcd3ea3f1a6794580e5f105436,Right distal M1,,1
+53099135,occlusion,1,1,chronic,Female,91,7aa80842b68e60c1a98018ce33607384,right posterior cerebral artery,PCA,NA
+53102496,occlusion,4,5,acute,Male,94,1e51562a92a75184f52264cdbf3dfd64,Right vertebral artery,VA,NA
+53106910,occlusion,5,6,acute,Male,96,d1d5d7350b5b6a04e717d9457dc62e80,proximal right M1,,1
+53116971,occlusion,1,0,chronic,Male,61,302599d6fef24cdbb367fa497c07bcc7, V3 and V4 segments of the left vertebral artery,8,NA
+53117057,occlusion,4,4,chronic,Female,61,739a583b7d2f9f302f9da08264ba2933, left M1,M1,NA
+53117765,occlusion,4,4,acute,Male,86,94a7fad3e69d9ff8ee90d29b37126667, right ICA,ICA,NA
+53117903,occlusion,5,6,chronic,Male,88,7576fc521a64aff3fe3e8b353aa20460, distal left M3 branch,M3,NA
+53120466,occlusion,3,3,chronic,Male,63,38a4a09bc4dddd6f8aca680d5d782d9e,Left vertebral artery ,VA,NA
+53122157,occlusion,3,3,chronic,Male,28,568600db1dc3902eb21f00aad8aa93a9,Left M1,,1
+53122214,occlusion,4,3,acute,Female,58,0b1ded8795f1a39b22c87764f7aad04c, right proximal M1,,3
+53123849,occlusion,4,5,acute,Female,92,af990a315fc8944cf242125504cb0770, distal right M1 versus proximal right M2.,1,NA
+53124380,occlusion,1,0,chronic,Female,68,9b4d15fe63dadcf1a6803f35d0e19ed5, middle cerebral artery M1 segments,M1,NA
+53125787,occlusion,1,0,chronic,Male,62,33e5e4f505b94a90266d5940fa1b4a45,V4 segment of the left vertebral artery.,10,NA
+53125758,occlusion,4,3,acute,Female,88,9598fd980b1a3024a901701ba4f75e92, right internal carotid artery ,ICA,NA
+53125676,occlusion,4,4,chronic,Male,61,98a38cf41c0a7edd4373a257a9485974,right MCA  and  right internal carotid artery,5,NA
+53126853,occlusion,1,2,chronic,Male,73,7ce91cfd64de756ce0b0222b73e7f59d, right vertebral artery,VA,NA
+53132245,occlusion,4,4,acute,Female,93,15a58082fde31a6a614c20a4613fd530,left M2 branch,,1
+53132867,occlusion,3,0,chronic,Female,83,3d91f5af93bd0bec33a6eef301555646,LEFT carotid bifurcation ,ICA,NA
+53134101,occlusion,4,5,acute,Female,78,e59258cdae6da8c8b0b4d3b7a13fa12a,distal M1 segment of the left middle cerebral artery ,M1,NA
+53137479,occlusion,2,0,chronic,Male,85,657f5843704ac3bbc05ea8f04bd9e1df,left vertebral artery ,VA,NA
+53140132,occlusion,1,0,chronic,Female,66,75f4f6213ad40f3604fa3e06df6a6638,origin of the internal carotid artery on the right ,ICA,NA
+53140164,occlusion,5,5,chronic,Female,90,604e9f923a62041fe337aca684b88e10,left common carotid artery within the neck at approximately the C3 vertebral body level,LCCA,NA
+53141919,occlusion,3,2,chronic,Male,88,0f0f9fb00f00f24a88fb8f4c21fd1b6f, bilateral internal carotid artery origins,ICA,NA
+53142623,occlusion,5,5,chronic,Male,71,2b7f86e7b37e8e5166b02aa1f899e254,Left ICA and MCA,5,NA
+53145535,occlusion,1,1,acute,Male,72,ee56ee045a5780fbc90e40fc7a2b71e8,Left distal PCA involving the P3 segment,PCA,NA
+53150575,occlusion,1,0,acute,Male,77,dee3ddb1b0d9b3d623a3457efc18eb81,Left distal M2 ,M2,NA
+53151449,occlusion,3,1,chronic,Male,90,0da38551800b3467d18ed4b86c4298e1,left posterior M2,M2,NA
+53152076,occlusion,1,2,chronic,Female,28,3dc9b67e4100c6ff3599a97d4023b7c9,mid cervical left ICA,ICA,NA
+53152123,occlusion,4,2,chronic,Male,65,533e2958977786bf07cfd3caea3e6f9a,left vertebral artery and  right vertebral artery,VA,NA
+53152453,occlusion,5,6,acute,Female,86,ff056d65bc887bef6688243caac87af7, right M1,,3
+53152919,occlusion,5,6,acute,Female,87,d703926358564acb35d8f881cfb30bc1,Right distal M1,M1,NA
+53154407,occlusion,4,4,chronic,Female,83,affd78da6c30ef4dead39d2c72d2118e,Left proximal M2,,1
+53156744,occlusion,3,4,chronic,Male,65,56a9b923e98f18242db612dbdb231cd5, left common carotid artery and  left M1 segment of the MCA and  left vertebral artery ,10,NA
+53159790,occlusion,1,1,acute,Male,72,1a115f5ceca764a1b35367934e135597,distal right M1 and carotid bulb/proximal ICA,3,NA
+53162086,occlusion,5,6,acute,Female,93,6b76663c2fd10abb85386c9f00711076, left internal carotid artery and left middle cerebral artery,,1
+53165626,occlusion,4,1,chronic,Male,63,8194da79144e7e2a344ee2f24cd3455c,Right M1,,3
+53171935,occlusion,3,1,chronic,Male,83,3c60a2684475f0572df203a1c2381323,proximal left internal carotid artery ,ICA,NA
+53174244,occlusion,3,3,acute,Female,78,91de4543c2bc0d03d2e48e6f081f3de9, M2 branch on the left side,,1
+53176693,occlusion,3,4,acute,Male,63,1b334c4fdb5fd4b319607d6ce1fcfcf4,right M3 division,M3,NA
+53182019,occlusion,4,2,chronic,Female,72,34f4ef76a4ae2664340e6cfcc0ac8046,right MCA,MCA,NA
+53182397,occlusion,3,4,chronic,Female,73,b37706a1a8fe88b2362f00d9aed5aabe,Right M1,,3
+53183348,occlusion,1,5,chronic,Male,72,e19b688d5b69620f40cf20e98648d22e,proximal to mid basilar artery just proximal to the takeoff of the bilateral AICAs,Basilar ,NA
+53184768,occlusion,4,3,chronic,Male,70,7bed8c98cbd6730fcb4d23dd30313c2b, left internal carotid artery,ICA,NA
+53184773,occlusion,1,0,chronic,Female,64,ae7d9cac41434ad8f8ca6db3c2eebcd5,right internal carotid artery,ICA,NA
+53185911,occlusion,3,3,chronic,Female,85,25c1a1ee32dca65fc27d2f8380a82ee3,right proximal internal carotid artery ,ICA,NA
+53186757,occlusion,1,2,chronic,Male,53,05a83877c12011d3f61c74fe5ae872fb, right mid superior division M2,M2,NA
+53187848,occlusion,1,3,chronic,Male,67,255033677f0dc8590b746321a10c38a0,proximal right ICA,ICA,NA
+53188875,occlusion,4,6,chronic,Female,89,1bf46059d4d40b32544649379888c056,origin of the right internal carotid artery,ICA,NA
+53191651,occlusion,4,2,acute,Male,56,0d0ce4d753f6c5ead8810b88702f65ed, left M1,,1
+53192148,occlusion,2,0,chronic,Male,61,874d96410f0a9ac79bbb79ecf4f919c1, right common carotid artery,CCA,NA
+53193589,occlusion,5,6,chronic,Female,90,c40124f4673c0392e17252a8e14066b8,Left M1,,3
+53196490,occlusion,4,4,chronic,Female,78,40dc9753a77536115b3360e9b7ffec14, Left inferior branch M2,M2,NA
+53197804,occlusion,1,1,chronic,Male,79,3d39fba38e9ff778b0a8e7b2483896bc,origin of the ICA ,ICA,NA
+53200068,occlusion,2,0,chronic,Female,84,74f9f565602bd89ac03f44af4ca97490,Partial right M1,M1,NA
+53201833,occlusion,2,3,chronic,Female,71,2c7979d67eadbbab468fa95394320671,distal M1 segment of the left MCA and proximal right PCA,10,NA
+53202265,occlusion,5,2,chronic,Male,63,f4b41321f42b125138170d3373dca912, right M1,M1,NA
+53203604,occlusion,5,6,acute,Female,88,31f6cea33225ed7cdeb42cf93e42b1bc,distal right M1,,2
+53204390,occlusion,3,3,chronic,Male,57,1993104842c8fb5b21c47eaa2e8567fb, right internal carotid artery,ICA,NA
+53205240,occlusion,4,2,chronic,Female,78,82867c9ccf0cbbe2a4b4fc43add496c6,Mid-distal left M1,,NA
+53208972,occlusion,4,5,chronic,Male,72,9056be52945f4b380bd8b79e0b4b84a3, M1 segment of the left MCA,M1,NA
+53210377,occlusion,5,6,chronic,Male,95,93f4c45a42718319bcdc3d0617a3c7a7,left internal carotid artery ,ICA,NA
+53212214,occlusion,2,1,chronic,Female,68,445ca7b4bc3cc47c5869acca6a123b59,left PCA in the region of the P2 segment,PCA,NA
+53214761,occlusion,1,1,chronic,Male,65,f234fe4e44ab3b40441c775caecbc53a,right internal carotid artery,ICA,NA
+53217779,occlusion,5,4,acute,Male,84,8a25865f79c04ccbcb32347efa51dda9,Proximal M2,M2,NA
+53221597,occlusion,4,4,acute,Male,68,f86165552c1f66b53bfe32e236a3d26a, right ICA,,0
+53224889,occlusion,3,1,acute,Female,58,4486571c96108a6a948d23a199562fa5,Right MCA,,2
+53227197,occlusion,2,3,chronic,Male,48,89359cd4e6f04dfc5ba0934d71a9e556,right vertebral artery,VA,NA
+53227904,occlusion,4,3,acute,Female,91,1b8abe9789d355a44847de0cb4177b48,M1 segment of the right MCA,,1
+53229999,occlusion,5,6,chronic,Male,78,4ebb098c4784c6b7d536ff0d123d5837, mid cervical portion of the left vertebral artery,VA,NA
+53232084,occlusion,3,6,chronic,Female,81,c09fa2f661eb6d76c1d3f44b6775dbdc,proximal left M2,M2,NA
+53236561,occlusion,4,5,chronic,Female,78,ac07c5901210af9d1280f51411de049d, right vertebral artery proximally,VA,NA
+53239763,occlusion,1,2,chronic,Male,79,4963126cfe16a0c136425bce88f55d08, proximal right M1 segment,M1,NA
+53240740,occlusion,1,1,chronic,Male,86,7c2d0e9afa78f5299b5dc723f9f7de2c,LEFT V4 segment of the LEFT vertebral artery,VA,NA
+53244249,occlusion,4,3,chronic,Male,74,d28b6c28b5568ea4934861a1d9de5c56,proximal left M2,M2,NA
+53248096,occlusion,5,2,acute,Male,65,8d80b07d71b0c1b4ea5f10fa9dd77167,Distal left M1 ,M1,NA
+53249941,occlusion,3,1,chronic,Female,62,57eef95190df3503a50e696a24444b64, right M1,M1,NA
+53251186,occlusion,1,0,chronic,Male,90,17afb5393212647a440dfec99bfeb79c,left internal carotid artery,ICA,NA
+53257396,occlusion,4,3,acute,Male,65,749d08df7b73fc1eca7b78ebf1b8b3db, Proximal right M1,,1
+53264611,occlusion,5,4,chronic,Female,81,19ada9b72a493739abf18864545704a2,distal M1 segment of the left middle cerebral artery ,,1
+53268895,occlusion,4,4,acute,Male,93,4084dcba05a0d4dc7783111262748fb1,A2 segment of the right ACA,ACA,NA
+53270451,occlusion,4,4,chronic,Male,58,96ecbc1bd7f9a99be936f2578f1d3b82,origin of the left vertebral artery,VA,NA
+53270596,occlusion,4,3,chronic,Female,90,3fd1488c4db38ea95c6ef95ea4a1a467,Left M1 ,M1,NA
+53270974,occlusion,4,3,chronic,Male,88,f335a828d1e0ba0428540099b78900fb,left M2 branch,M2,NA
+53272168,occlusion,5,6,chronic,Female,87,4d7c7dd96691ba55070c044429613a72,Left M1,M1,NA
+53273034,occlusion,5,6,chronic,Female,66,a0b27fa802231049f15558203dc12ecc,right M1 ,M1,NA
+53273421,occlusion,4,3,acute,Female,75,fd87614440b83be3b92a89a930894e30,Right MCA ,MCA,NA
+53275211,occlusion,4,5,chronic,Male,80,260755a3d4d5027e403e38edbf124c87,right posterior cerebral artery and  right vertebral artery and proximal right internal carotid artery,7,NA
+53278179,occlusion,1,1,chronic,Female,67,5dbf0b67f9ac4fbf556073b27457aa2e,Right vertebral artery,VA,NA
+53279347,occlusion,4,3,chronic,Male,54,e2fd591903920c31033a5f3a4c3ec24d,right cervical ICA and right vertebral artery ,,1
+53280919,occlusion,4,4,chronic,Male,77,7d702d5978b86a2925faa6d26bc9007f,Right vertebral artery and Proximal basilar ,VA,NA
+53287208,occlusion,4,4,acute,Female,90,e89bd4d74ffd6b67fd37d99d1880f7db,Left M1,,1
+53288836,occlusion,4,3,acute,Female,67,15f20db8347d6c64f796613af5f7e3fd, proximal left internal carotid artery,ICA,NA
+53301307,occlusion,3,6,chronic,Male,83,71307693a13d17293f2a767033b49a90, M2 branch of the left MCA,M2,NA
+53304296,occlusion,4,3,chronic,Male,78,45ab05fc5547ec114980fb24b9317079, left proximal and mid internal carotid artery,ICA,NA
+53306728,occlusion,4,3,chronic,Male,74,469f7e85caf9f214ccbb594f8e4d48ac,Left M1,,2
+53306396,occlusion,5,4,acute,Female,94,0821539aa6447ac718f56b2c1d0d5578, proximal left vertebral artery,VA,NA
+53309951,occlusion,4,6,acute,Female,97,390f23fd15dc61364b39c37062ffc72b,Bilateral  ICA origin,ICA,NA
+53311635,occlusion,4,6,acute,Female,81,c261d98b8c535d4fb0a4c4304c2fec49, right ICA terminus and M1 segment and  left common and internal carotid artery,,2
